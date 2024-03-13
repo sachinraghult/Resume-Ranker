@@ -1,0 +1,246 @@
+.loginWrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0%;
+  font-family: "Roboto Slab", serif;
+}
+
+@media screen and (max-width: 900px) {
+  .loginWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: blue;  */
+  }
+}
+
+.loginLeft {
+  /* background-color: aqua;  */
+  display: flex;
+  padding-top: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 0px;
+  height: 100vh;
+  background-image: url("../../../public/assests/img1.svg");
+  background-repeat: no-repeat;
+  object-fit: fill;
+}
+
+.loginRight {
+  /* background-color: aqua; */
+  width: 100%;
+  display: flex;
+  margin-left: 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: aqua;  */
+}
+
+.orContainer {
+  margin-top: 20px;
+}
+.loginLogo {
+  font-size: 50px;
+  font-weight: 800;
+  color: rgb(5, 28, 103);
+  margin-top: 250px;
+}
+
+.RegisterBox {
+  height: 600px;
+  margin-right: 100px;
+  margin-top: 30px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 900px) {
+  .RegisterBox {
+    margin: auto;
+    margin-top: 20px;
+  }
+  .loginLeft {
+    height: 30vh;
+  }
+}
+@media screen and (max-width: 310px) {
+  .RegisterBox {
+    margin: 0px;
+    margin-top: 20px;
+    padding: 0%;
+  }
+}
+
+.RegisterBox span {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.RegisterBox label {
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.loginInput {
+  width: 92.5%;
+  height: 45px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+.loginInput:focus {
+  outline: none;
+}
+
+.loginButton {
+  margin-top: 5px;
+  width: 100%;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  font-size: 20px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  cursor: pointer;
+  margin-top: 30px;
+}
+.loginButton:hover {
+  background-color: blue;
+}
+.googleButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  font-size: 20px;
+  background-color: #fff;
+  color: black;
+  cursor: pointer;
+}
+
+.googleButton img {
+  margin-right: 20px;
+}
+
+.loginForgot {
+  text-align: center;
+  color: blue;
+}
+
+.loginRegisterButton {
+  width: 80%;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-size: 15px;
+  padding: 0 20px;
+  background-color: rgb(39, 83, 0);
+  color: white;
+  cursor: pointer;
+}
+
+.formtop {
+  font-size: 25px;
+}
+
+@media screen and (max-width: 330px) {
+  .loginButton {
+    width: 100%;
+    height: 50px;
+  }
+  .googleButton {
+    width: 100%;
+    height: 50px;
+  }
+}
+
+.welcomeRight {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.welcomeRight button {
+  margin-left: 20%;
+  width: 40%;
+  height: 50px;
+  background-color: #00bcd4;
+  border-radius: 5px;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Roboto Slab", serif;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.welcomeRight button:hover {
+  background-color: #0097a7;
+  transform: scale(1.2, 1.2);
+  transition-delay: 0.2s;
+}
+
+@media screen and (max-width: 900px) {
+  .welcomeRight {
+    align-items: center;
+  }
+  .welcomeRight button {
+    margin-left: 0%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .welcomeRight {
+    margin-top: 30px;
+    align-items: center;
+  }
+  .welcomeRight button {
+    width: 70%;
+    height: 50px;
+    background-color: #00bcd4;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 0%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .welcomeRight {
+    margin-top: 50px;
+    width: 50%;
+  }
+  .welcomeRight button {
+    width: 100%;
+    height: 50px;
+    background-color: #00bcd4;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    cursor: pointer;
+    margin-top: 30px;
+  }
+}

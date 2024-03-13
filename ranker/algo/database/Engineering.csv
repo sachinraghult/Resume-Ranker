@@ -1,0 +1,801 @@
+Institute ID,Name,City,State,Score,TLR,RPC,GO,OI,PERCEPTION,Year,Year_rank
+IR-E-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,90.19,95.47,96.43,81.92,62.44,100.0,2021,1
+IR-E-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,88.96,91.76,95.82,80.97,66.39,98.63,2021,2
+IR-E-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,85.16,89.32,92.56,79.71,53.68,92.88,2021,3
+IR-E-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,83.22,86.71,83.13,89.79,55.96,87.05,2021,4
+IR-E-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,82.03,80.51,88.59,83.01,58.46,88.5,2021,5
+IR-E-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,78.08,79.28,78.13,90.74,63.36,63.59,2021,6
+IR-E-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,73.84,79.25,70.32,84.63,59.83,60.58,2021,7
+IR-E-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,68.69,82.6,56.9,72.54,56.58,66.7,2021,8
+IR-E-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,66.08,70.0,54.63,78.13,61.35,69.32,2021,9
+IR-E-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,64.19,73.15,50.17,78.62,64.54,50.18,2021,10
+IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,64.07,69.29,65.53,73.12,54.62,35.36,2021,11
+IR-E-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,63.68,61.41,69.7,67.01,59.84,49.73,2021,12
+IR-E-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,62.56,76.22,55.89,71.57,55.76,30.29,2021,13
+IR-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,62.1,67.4,51.62,79.07,55.8,49.96,2021,14
+IR-E-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,60.31,75.45,54.62,72.56,45.67,21.98,2021,15
+IR-E-U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,59.67,69.63,59.01,59.56,56.68,35.04,2021,16
+IR-E-U-0575,Jadavpur University,Kolkata,West Bengal,59.19,54.82,60.61,76.88,43.0,48.82,2021,17
+IR-E-U-0439,Anna University,Chennai,Tamil Nadu,58.31,66.29,50.06,58.6,50.87,65.95,2021,18
+IR-E-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,58.09,81.35,34.08,69.1,62.78,33.74,2021,19
+IR-E-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,58.02,62.21,56.58,72.53,50.72,28.08,2021,20
+IR-E-U-0064,Indian Institute of Technology Patna,Patna,Bihar,57.38,76.49,44.92,63.77,53.22,28.83,2021,21
+IR-E-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,56.86,82.1,35.05,57.31,62.64,39.87,2021,22
+IR-E-U-0025,National Institute of Technology Warangal,Warangal,Telangana,56.76,67.88,39.6,74.47,55.52,40.72,2021,23
+IR-E-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,56.76,64.89,51.54,68.52,56.05,25.35,2021,23
+IR-E-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,56.48,68.0,34.63,77.94,63.52,37.53,2021,25
+IR-E-U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,56.35,62.96,39.96,79.57,55.73,39.87,2021,26
+IR-E-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,56.2,66.13,47.54,64.47,49.7,42.36,2021,27
+IR-E-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,55.71,75.09,37.81,66.44,55.62,29.93,2021,28
+IR-E-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,55.48,69.23,42.64,68.37,56.43,26.15,2021,29
+IR-E-U-0334,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,54.94,66.19,46.05,70.66,53.53,17.84,2021,30
+IR-E-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,54.87,68.46,57.24,52.38,56.94,9.87,2021,31
+IR-E-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,54.77,75.76,34.28,70.16,65.14,12.15,2021,32
+IR-E-U-0108,Jamia Millia Islamia,New Delhi,Delhi,54.46,60.27,50.0,72.96,54.71,13.24,2021,33
+IR-E-U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,54.17,60.31,50.91,67.01,60.9,13.24,2021,34
+IR-E-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,54.0,71.79,50.09,56.66,40.38,20.65,2021,35
+IR-E-U-0098,Delhi Technological University,New Delhi,Delhi,53.96,66.23,31.79,73.63,58.61,39.59,2021,36
+IR-E-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,53.95,70.69,43.21,62.04,57.79,15.86,2021,37
+IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,53.22,71.47,37.62,67.55,57.06,12.7,2021,38
+IR-E-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,53.12,69.99,29.98,70.72,76.68,13.24,2021,39
+IR-E-U-0255,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,52.85,77.49,23.18,61.09,65.27,39.01,2021,40
+IR-E-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,52.58,65.95,35.39,69.05,61.66,21.98,2021,41
+IR-E-U-0530,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,51.9,64.23,34.07,73.63,54.84,21.98,2021,42
+IR-E-U-0395,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,51.56,76.38,28.07,62.59,63.34,13.78,2021,43
+IR-E-U-0172,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,50.59,62.2,40.64,62.01,53.66,19.73,2021,44
+IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,50.2,66.95,34.56,61.71,53.48,20.65,2021,45
+IR-E-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,50.06,68.2,34.19,58.24,50.41,26.54,2021,46
+IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,49.99,64.14,34.39,65.08,56.74,17.35,2021,47
+IR-E-U-0055,National Institute of Technology Silchar,Silchar,Assam,49.57,63.11,40.36,61.95,52.73,8.68,2021,48
+IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,49.01,67.97,27.72,60.78,63.12,18.32,2021,49
+IR-E-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,48.49,71.09,38.38,48.62,55.06,4.23,2021,50
+IR-E-C-7252,Manipal Institute of Technology,Manipal,Karnataka,48.17,70.14,28.99,50.15,62.03,21.98,2021,51
+IR-E-C-41593,"College of Engineering, Pune",Pune,Maharashtra,48.12,64.83,22.39,67.83,54.17,29.57,2021,52
+IR-E-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,47.91,68.57,23.58,48.35,48.89,57.14,2021,53
+IR-E-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,47.12,50.76,33.07,71.08,51.44,26.15,2021,54
+IR-E-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.65,59.83,41.05,45.39,63.17,9.87,2021,55
+IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,Srivilliputtur,Tamil Nadu,46.57,64.24,24.41,60.42,65.23,13.78,2021,56
+IR-E-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,45.63,70.27,31.03,47.84,49.93,6.83,2021,57
+IR-E-U-0297,Defence Institute of Advanced Technology,Pune,Maharashtra,45.52,67.03,33.73,52.16,45.71,2.87,2021,58
+IR-E-U-0619,National Institute of Technology Meghalaya,Shillong,Meghalaya,45.37,67.63,24.12,55.3,64.22,3.56,2021,59
+IR-E-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,45.02,55.71,28.88,63.97,58.59,9.87,2021,60
+IR-E-U-0747,Chandigarh University,Mohali,Punjab,45.01,68.9,17.05,46.81,76.33,22.42,2021,61
+IR-E-U-0017,Jawaharlal Nehru Technological University,Hyderabad,Telangana,44.95,72.29,27.99,41.03,53.8,12.7,2021,62
+IR-E-U-0105,"Indraprastha Institute of Information Technology, Delhi",New Delhi,Delhi,44.85,54.79,31.79,68.04,39.39,13.24,2021,63
+IR-E-U-0092,National Institute of Technology Raipur,Raipur,Chhattisgarh,44.83,60.57,28.98,59.26,58.32,2.87,2021,64
+IR-E-C-1331,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,43.74,66.25,16.84,60.05,53.7,14.31,2021,65
+IR-E-U-0379,Lovely Professional University,Phagwara,Punjab,43.69,62.69,25.97,45.82,64.46,14.83,2021,66
+IR-E-U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,43.64,59.29,14.29,67.27,74.92,6.19,2021,67
+IR-E-U-0147,Pandit Deendayal Petroleum University,Gandhinagar,Gujarat,43.17,70.06,23.25,53.33,42.09,2.87,2021,68
+IR-E-U-0197,National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,42.63,65.87,14.29,57.85,63.89,6.19,2021,69
+IR-E-U-0080,"Punjab Engineering College (Deemed to be University), Chandigarh",Chandigarh,Chandigarh,42.62,55.98,15.24,65.57,55.41,26.15,2021,70
+IR-E-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,42.58,56.11,18.65,60.91,50.99,28.83,2021,71
+IR-E-U-0072,National Institute of Technology Patna,Patna,Bihar,42.06,54.45,24.3,61.87,50.77,9.87,2021,72
+IR-E-U-0795,Indian Institute of Information Technology Guwahati,Guwahati,Assam,41.98,64.87,9.13,56.91,53.01,31.01,2021,73
+IR-E-C-24004,College of Engineering (A),Visakhapatnam,Andhra Pradesh,41.92,64.45,9.77,69.23,53.92,4.23,2021,74
+IR-E-U-0555,Graphic Era University,Dehradun,Uttarakhand,41.83,64.78,13.64,49.07,60.45,24.53,2021,75
+IR-E-U-0221,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,41.64,58.9,10.89,63.64,60.93,18.8,2021,76
+IR-E-C-1269,R.V. College of Engineering,Bengaluru,Karnataka,41.52,63.87,14.45,57.01,50.3,15.86,2021,77
+IR-E-C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,41.29,62.23,10.86,63.26,49.71,17.35,2021,78
+IR-E-U-0201,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,41.22,69.07,20.55,47.85,45.49,2.17,2021,79
+IR-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",Jabalpur,Madhya Pradesh,41.17,46.17,29.61,61.76,54.06,6.83,2021,80
+IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),Thanjavur,Tamil Nadu,41.13,71.85,7.98,52.14,57.56,9.87,2021,81
+IR-E-C-33641,"Veermata Jijabai Technological Institute, (VJTI, Mumbai)",Mumbai,Maharashtra,41.07,60.34,11.62,66.02,53.6,9.28,2021,82
+IR-E-U-0733,PES University,Bengaluru,Karnataka,41.06,62.28,13.35,60.53,49.36,13.24,2021,83
+IR-E-U-0749,Manipal University Jaipur,Jaipur,Rajasthan,40.63,65.35,16.65,50.79,58.72,0.0,2021,84
+IR-E-U-0620,National Institute of Technology Goa,Ponda,Goa,40.6,56.69,21.42,53.53,57.08,7.45,2021,85
+IR-E-U-0207,"National Institute of Technology, Jamshedpur",Jamshedpur,Jharkhand,40.53,56.45,15.62,67.65,45.74,8.07,2021,86
+IR-E-U-0516,Indian Institute of Information Technology Allahabad,Prayagraj (Allahabad),Uttar Pradesh,40.28,46.57,15.7,72.28,51.74,19.73,2021,87
+IR-E-C-6379,Netaji Subhas University of Technology (NSUT),South West,Delhi,40.22,47.14,22.25,65.82,44.23,18.32,2021,88
+IR-E-U-0078,Panjab University,Chandigarh,Chandigarh,40.16,39.71,42.62,48.4,43.12,14.83,2021,89
+IR-E-C-36926,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,39.92,61.76,15.76,52.48,45.71,15.86,2021,90
+IR-E-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,39.87,57.92,20.29,51.01,57.05,4.9,2021,91
+IR-E-U-0493,National Institute of Technology Agartala,Agratala,Tripura,39.86,56.96,21.82,48.87,57.71,6.83,2021,92
+IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,39.84,55.8,28.48,38.53,63.61,4.9,2021,93
+IR-E-U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,39.82,53.07,23.11,56.79,49.3,6.83,2021,94
+IR-E-C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,39.4,63.85,10.25,53.4,50.16,14.83,2021,95
+IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,39.39,60.35,3.01,62.73,71.58,6.83,2021,96
+IR-E-U-0163,The Northcap University,Gurugram,Haryana,39.23,60.36,12.71,56.83,51.32,8.07,2021,97
+IR-E-C-1262,B.M.S. College of Engineering,Bengaluru,Karnataka,39.13,59.62,12.33,54.1,51.93,15.35,2021,98
+IR-E-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,39.09,50.19,21.92,58.2,46.54,11.59,2021,99
+IR-E-C-30045,"C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,38.94,62.09,5.58,58.89,57.55,11.02,2021,100
+IR-E-C-1297,Siddaganga Institute of Technology,Tumkur,Karnataka,38.81,59.38,15.43,54.24,49.56,5.55,2021,101
+IR-E-C-36969,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,38.74,63.99,8.47,43.38,50.51,32.73,2021,102
+IR-E-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,38.58,55.99,22.73,47.47,54.74,0.0,2021,103
+IR-E-U-0056,Tezpur University,Tezpur,Assam,38.39,49.58,34.26,41.5,41.9,7.45,2021,104
+IR-E-U-0460,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,38.38,52.14,26.57,43.78,51.97,8.07,2021,105
+IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,38.33,46.9,17.04,66.48,53.57,4.9,2021,106
+IR-E-U-0130,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,38.2,50.12,11.09,71.67,48.81,6.19,2021,107
+IR-E-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,37.93,41.3,32.95,47.68,44.66,16.36,2021,108
+IR-E-C-16547,Sri Sairam Engineering College,Kancheepuram,Tamil Nadu,37.84,55.56,11.27,58.93,57.83,2.17,2021,109
+IR-E-C-16626,Rajalakshmi Engineering College,Chennai,Tamil Nadu,37.71,64.13,4.96,56.15,53.93,3.56,2021,110
+IR-E-U-0043,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,37.7,57.75,15.85,49.23,56.26,1.46,2021,111
+IR-E-U-0445,B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,37.58,60.38,16.43,47.28,44.6,6.19,2021,112
+IR-E-U-0373,Chitkara University,Rajpura,Punjab,37.5,53.58,13.38,52.56,58.11,11.02,2021,113
+IR-E-U-0613,National Institute of Technology Manipur,Imphal,Manipur,37.45,61.1,14.77,42.18,58.89,3.56,2021,114
+IR-E-C-43264,National Institute of Foundry and Forge Technology (NIFFT),Ranchi,Jharkhand,37.35,67.07,4.72,53.71,45.16,5.55,2021,115
+IR-E-U-0367,Veer Surendra Sai University of Technology,Burla,Odisha,37.34,53.46,22.16,46.3,47.1,6.83,2021,116
+IR-E-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,37.3,56.48,14.79,52.46,50.11,4.23,2021,117
+IR-E-U-0169,Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,37.26,57.82,6.21,58.38,52.21,11.59,2021,118
+IR-E-C-18886,Shri Ramdeobaba College of Engineering and Management,Nagpur,Maharashtra,37.22,59.71,7.98,57.72,50.85,2.87,2021,119
+IR-E-U-0382,Punjab Technical University,Kapurthala,Punjab,37.15,63.62,32.28,16.04,46.24,5.55,2021,120
+IR-E-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,37.09,55.8,19.82,39.47,65.05,0.0,2021,121
+IR-E-I-1015,Vishwakarma Institute of Technology,Pune,Maharashtra,36.82,56.71,5.43,63.65,48.32,6.19,2021,122
+IR-E-C-18154,University College of Engingeering,Kakinada,Andhra Pradesh,36.72,59.48,4.18,57.92,56.26,4.23,2021,123
+IR-E-C-27058,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,36.67,49.66,19.34,47.9,46.51,17.35,2021,124
+IR-E-U-0491,"Vels Institute of Science, Technology & Advanced Studies (VISTAS)",Chennai,Tamil Nadu,36.63,57.36,21.44,42.16,41.95,3.56,2021,125
+IR-E-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,36.62,61.61,7.63,49.47,53.44,6.19,2021,126
+IR-E-U-0175,YMCA University of Science & Tech (Formerely YMCA Institute of Engineering),Faridabad,Haryana,36.59,59.79,6.05,55.73,50.04,6.83,2021,127
+IR-E-C-36975,Government College of Technology,Coimbatore,Tamil Nadu,36.54,51.56,9.16,55.01,49.5,23.7,2021,128
+IR-E-U-0186,Jaypee University of Information Technology,Solan,Himachal Pradesh,36.53,47.14,21.27,55.23,46.01,3.56,2021,129
+IR-E-C-18817,G. H. Raisoni College of Engineering,Nagpur,Maharashtra,36.46,52.49,8.85,60.93,48.69,9.87,2021,130
+IR-E-C-50605,PSG Institute of Technology and Applied Research,Coimbatore,Tamil Nadu,36.41,60.8,2.1,55.86,49.86,13.78,2021,131
+IR-E-C-27616,University College of Engineering,Hyderabad,Telangana,36.37,59.95,6.78,52.91,50.28,7.45,2021,132
+IR-E-C-25622,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,36.32,60.36,2.21,56.74,51.57,10.45,2021,133
+IR-E-C-19754,SR University,Warangal,Telangana,36.11,62.51,6.49,41.74,62.54,8.07,2021,134
+IR-E-C-19667,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Hyderabad,Telangana,36.06,61.89,6.83,50.96,47.63,4.9,2021,135
+IR-E-U-0332,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,35.95,49.65,23.08,48.98,42.64,0.74,2021,136
+IR-E-C-37064,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,35.94,54.45,8.12,60.34,47.44,3.56,2021,137
+IR-E-C-1400,NMAM Institute of Technology,"Nitte, Udupi",Karnataka,35.93,59.12,9.14,50.79,48.71,4.23,2021,138
+IR-E-C-1345,P E S College of Engineering,Mandya,Karnataka,35.89,60.69,1.04,56.57,60.6,0.0,2021,139
+IR-E-C-42054,Army Institute of Technology,Pune,Maharashtra,35.89,53.37,1.08,64.93,58.2,7.45,2021,139
+IR-E-C-1371,New Horizon College of Engineering,Bengaluru,Karnataka,35.87,51.75,5.91,64.47,53.23,3.56,2021,141
+IR-E-C-19650,Vardhaman College of Engineering,Rangareddy,Telangana,35.87,53.07,8.0,55.81,48.64,15.35,2021,141
+IR-E-C-33773,Bharatiya Vidya Bhavan`s Sardar Patel Institute of Technology,Mumbai,Maharashtra,35.67,48.87,11.24,63.74,46.71,2.17,2021,143
+IR-E-C-6581,Pondicherry Engineering College,Puducherry,Pondicherry,35.66,50.19,14.63,56.41,34.53,14.83,2021,144
+IR-E-U-0621,National Institute of Technology Puducherry,Karaikal,Pondicherry,35.66,52.36,5.42,53.92,68.57,6.83,2021,144
+IR-E-C-19747,Anurag University,Hyderabad,Telangana,35.55,55.78,2.62,52.86,60.28,14.31,2021,146
+IR-E-C-10342,Chandigarh Engineering College,Sahibzada Ajit Singh Nagar,Punjab,35.42,60.56,4.7,46.08,66.18,0.0,2021,147
+IR-E-S-8898,"National Institute of Food Technology, Entrepreneurship & Management",Sonipat,Haryana,35.35,52.72,5.62,57.16,63.41,0.74,2021,148
+IR-E-C-18254,Yeshwantrao Chavan College of Engineering,Nagpur,Maharashtra,35.28,56.1,7.1,55.05,52.36,0.74,2021,149
+IR-E-U-0938,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,35.24,61.8,6.18,50.16,48.25,0.0,2021,150
+IR-E-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,35.18,56.25,7.13,52.07,55.33,2.17,2021,151
+IR-E-C-1336,BMS Institute of Technology & Management,Bengaluru,Karnataka,35.1,49.99,4.88,59.32,54.59,13.24,2021,152
+IR-E-U-0146,Nirma University,Ahmedabad,Gujarat,35.07,52.02,13.43,51.68,45.95,4.9,2021,153
+IR-E-U-0604,"Amity University, Gwalior",Gwalior,Madhya Pradesh,35.02,57.48,3.71,58.75,46.18,2.87,2021,154
+IR-E-C-19607,CVR College Of Engineering,Ibrahimpatan,Telangana,35.0,58.79,3.48,54.75,52.16,1.46,2021,155
+IR-E-C-8277,"Government Engineering College, Thrissur",Thrissur,Kerala,34.91,60.69,3.88,50.29,51.95,2.87,2021,156
+IR-E-U-0223,"Jain University, Bangalore",Bengluru,Karnataka,34.72,48.96,18.52,44.87,54.32,0.74,2021,157
+IR-E-U-0592,Maulana Abul Kalam Azad University of Technology,Nadia,West Bengal,34.7,46.79,18.71,52.47,42.66,2.87,2021,158
+IR-E-C-19706,Institute of Aeronautical Engineering,Hyderabad,Telangana,34.61,50.17,14.51,49.88,49.39,2.87,2021,159
+IR-E-U-0615,National Institute of Technology Arunachal Pradesh,Itanagar,Arunachal Pradesh,34.59,59.59,9.94,41.8,51.5,2.17,2021,160
+IR-E-U-0685,Indira Gandhi Delhi Technical University for Women,Delhi,Delhi,34.52,43.09,8.82,65.36,54.48,4.23,2021,161
+IR-E-U-0384,Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,34.52,58.4,16.31,29.59,57.04,4.9,2021,161
+IR-E-C-30153,"Silicon Institute of Technology (SIT), Bhubaneswar",Bhubaneswar,Odisha,34.46,55.5,3.07,54.5,59.17,0.74,2021,163
+IR-E-C-37065,Kongu Engineering College,Perundurai,Tamil Nadu,34.38,57.61,8.0,46.3,43.96,10.45,2021,164
+IR-E-C-19534,Goka Raju Ranga Raju Institute of Engineering & Technology,Hyderabad,Telangana,34.36,55.87,5.71,52.63,49.43,4.23,2021,165
+IR-E-U-0443,Annamalai University,Annamalainagar,Tamil Nadu,34.23,59.64,25.05,21.64,30.19,14.83,2021,166
+IR-E-U-0535,Rajiv Gandhi Institute of Petroleum Technology,Amethi,Uttar Pradesh,34.18,58.91,7.14,49.49,42.47,2.17,2021,167
+IR-E-C-1352,Nitte Meenakshi Institute of Technology,Bengaluru,Karnataka,34.14,57.43,4.88,50.31,51.73,2.17,2021,168
+IR-E-C-6192,Institute of Engineering & Management,Kolkata,West Bengal,34.09,50.66,9.34,44.8,67.09,4.23,2021,169
+IR-E-C-16614,R.M.K. Engineering College,Thiruvallur,Tamil Nadu,34.04,54.45,3.25,55.6,52.39,3.56,2021,170
+IR-E-I-1093,Noida Institute of Engineering & Technology,Greater Noida,Uttar Pradesh,33.99,52.45,1.37,57.5,48.67,14.83,2021,171
+IR-E-U-0454,Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,33.98,48.41,17.65,44.02,46.84,6.83,2021,172
+IR-E-C-42227,Dr. D. Y. Patil Institute of Technology,Pune,Maharashtra,33.98,53.67,0.46,60.1,51.72,5.55,2021,172
+IR-E-U-0376,Guru Nanak Dev University,Amritsar,Punjab,33.98,24.31,32.53,56.36,46.22,10.45,2021,172
+IR-E-C-37089,Sri Ramakrishna Engineering College,Coimbatore,Tamil Nadu,33.96,54.46,6.83,50.09,45.1,10.45,2021,175
+IR-E-C-46111,KIET Group of Institutions,Ghaziabad,Uttar Pradesh,33.85,57.83,4.54,53.35,44.67,0.0,2021,176
+IR-E-U-0643,Galgotias University,Gautam Budh Nagar,Uttar Pradesh,33.79,54.08,8.46,49.47,49.18,2.17,2021,177
+IR-E-C-18010,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,Andhra Pradesh,33.73,54.41,8.15,46.79,52.53,3.56,2021,178
+IR-E-U-0541,Sharda University,Greater Noida,Uttar Pradesh,33.64,52.08,10.44,41.15,54.55,12.15,2021,179
+IR-E-U-0854,KLE Technological University,Dharwad,Karnataka,33.58,54.63,6.75,50.42,48.01,2.87,2021,180
+IR-E-C-36143,Shri G. S. Institute of Technology & Science,Indore,Madhya Pradesh,33.49,52.93,3.8,55.1,48.3,6.19,2021,181
+IR-E-U-0046,North Eastern Regional Institute of Science & Technology,Itanagar,Arunachal Pradesh,33.38,60.11,11.98,34.94,43.51,4.23,2021,182
+IR-E-C-16537,St. Josephs College of Engineering,Kancheepuram,Tamil Nadu,33.36,51.5,10.67,50.71,45.66,0.0,2021,183
+IR-E-C-36022,Lakshmi Narain College of Technology,Bhopal,Madhya Pradesh,33.23,51.79,1.86,57.61,55.45,0.74,2021,184
+IR-E-U-0353,Centurion University of Technology and Management,Paralakhemundi,Odisha,33.14,52.52,3.79,54.32,53.05,0.74,2021,185
+IR-E-I-1356,Rabindranath Tagore University,Raisen,Madhya Pradesh,33.07,56.04,1.76,47.95,61.42,0.0,2021,186
+IR-E-U-0616,National Institute of Technology Uttarakhand,Srinagar (Garhwal),Uttarakhand,33.07,57.07,12.26,42.75,35.71,1.46,2021,186
+IR-E-C-1412,JSS Science and Technology University,Mysuru,Karnataka,33.04,50.71,4.3,53.39,49.93,8.68,2021,188
+IR-E-C-16560,Easwari Engineering College,Chennai,Tamil Nadu,32.75,51.44,2.41,56.66,48.49,4.23,2021,189
+IR-E-I-1033,International Institute of Information Technology Bhubaneswar,Bhubaneswar,Odisha,32.73,42.3,12.58,54.47,49.64,4.23,2021,190
+IR-E-C-27089,National Engineering College,Kovilpatti,Tamil Nadu,32.64,56.42,5.8,45.79,46.72,1.46,2021,191
+IR-E-C-37028,Sona College of Technology,Salem,Tamil Nadu,32.61,53.68,4.16,49.5,48.67,4.9,2021,192
+IR-E-C-1406,C M R Institute of Technology,Bengaluru,Karnataka,32.56,55.56,4.14,46.07,52.22,2.17,2021,193
+IR-E-C-46239,G.L.Bajaj Institute of Technology and Management,Greater Noida,Uttar Pradesh,32.55,57.13,3.72,47.78,47.32,0.0,2021,194
+IR-E-U-0774,DIT University,Dehradun,Uttarakhand,32.53,50.14,7.09,48.53,55.03,1.46,2021,195
+IR-E-C-1438,The National Institute of Engineering,Mysore,Karnataka,32.52,53.79,2.33,51.03,50.48,4.23,2021,196
+IR-E-C-33584,K. J. Somaiya College of Engineering,Mumbai,Maharashtra,32.48,52.22,3.33,58.94,38.08,2.17,2021,197
+IR-E-C-27400,Kakatiya Institute of Technology & Science,Warangal,Telangana,32.48,55.8,1.64,49.13,49.25,4.9,2021,197
+IR-E-C-11015,Walchand College of Engineering,Sangli,Maharashtra,32.46,48.25,4.54,56.11,47.93,6.19,2021,199
+IR-E-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,32.42,41.76,25.59,37.58,43.31,3.56,2021,200
+IR-E-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,89.93,95.42,94.64,83.9,61.31,100.0,2020,1
+IR-E-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,88.08,90.79,96.15,80.36,64.81,94.46,2020,2
+IR-E-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,85.08,91.0,93.37,77.6,49.99,92.51,2020,3
+IR-E-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,82.18,86.22,82.08,88.44,54.21,85.78,2020,4
+IR-E-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,80.56,77.32,87.11,83.21,56.62,89.31,2020,5
+IR-E-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,76.29,77.21,76.57,89.65,61.71,60.55,2020,6
+IR-E-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,74.9,83.04,70.73,83.03,59.13,62.45,2020,7
+IR-E-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,66.44,82.51,52.47,71.54,55.98,60.42,2020,8
+IR-E-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,64.1,72.11,50.04,74.71,61.49,63.68,2020,9
+IR-E-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,62.88,79.89,53.31,72.09,57.76,27.15,2020,10
+IR-E-U-0701,Indian Institute of Technology (BHU) Varanasi,Varanasi,Uttar Pradesh,62.54,72.34,47.77,77.77,56.07,53.49,2020,11
+IR-E-U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,62.06,64.02,63.12,72.11,55.07,39.78,2020,12
+IR-E-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,61.3,68.93,46.03,78.67,55.24,55.59,2020,13
+IR-E-U-0439,Anna University,Chennai,Tamil Nadu,59.89,64.62,54.07,61.5,51.62,68.24,2020,14
+IR-E-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,59.32,56.79,64.06,63.07,58.21,46.29,2020,15
+IR-E-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,59.29,64.38,57.82,74.3,47.23,30.48,2020,16
+IR-E-U-0575,Jadavpur University,Kolkata,West Bengal,59.23,53.73,62.04,76.45,40.45,51.61,2020,17
+IR-E-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,58.7,68.13,54.04,74.66,45.17,25.98,2020,18
+IR-E-U-0025,National Institute of Technology Warangal,Warangal,Telangana,57.76,73.38,38.12,74.21,57.81,36.91,2020,19
+IR-E-U-0436,Amrita School of Engineering,Amritapuri,Kerala,57.37,65.77,56.76,59.0,60.07,28.01,2020,20
+IR-E-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,57.14,69.57,47.62,63.17,47.92,45.56,2020,21
+IR-E-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,56.8,77.05,37.17,64.77,56.27,39.56,2020,22
+IR-E-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,56.56,71.05,31.3,78.29,63.87,38.04,2020,23
+IR-E-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,56.15,83.76,34.55,55.15,57.9,38.26,2020,24
+IR-E-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,55.95,79.11,30.54,70.31,59.24,30.75,2020,25
+IR-E-U-0064,Indian Institute of Technology Patna,Patna,Bihar,55.74,78.2,39.24,62.28,51.86,28.57,2020,26
+IR-E-U-0334,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,54.76,67.7,45.19,69.73,53.77,15.56,2020,27
+IR-E-U-0108,Jamia Millia Islamia,New Delhi,Delhi,54.58,63.16,48.11,71.43,58.0,11.13,2020,28
+IR-E-I-1480,Thapar Institute of Engineering & Technology,Patiala,Punjab,54.45,65.95,47.65,65.69,54.82,17.42,2020,29
+IR-E-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,54.39,61.95,34.87,77.36,56.26,42.47,2020,30
+IR-E-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,54.17,70.38,36.8,67.11,64.7,21.26,2020,31
+IR-E-U-0497,Amity University Noida,Gautam Budh Nagar,Uttar Pradesh,53.09,71.22,50.11,51.01,56.94,8.05,2020,32
+IR-E-U-0255,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,53.01,78.65,24.02,62.88,62.97,33.32,2020,33
+IR-E-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,52.38,74.73,29.41,68.18,64.26,10.7,2020,34
+IR-E-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,52.25,71.41,41.69,59.89,54.4,8.95,2020,35
+IR-E-U-0098,Delhi Technological University,New Delhi,Delhi,51.99,63.36,31.12,73.21,53.07,36.91,2020,36
+IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,51.79,73.13,33.81,64.89,56.6,10.7,2020,37
+IR-E-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,51.42,70.07,34.81,58.75,51.57,30.48,2020,38
+IR-E-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,51.39,70.58,45.83,56.57,40.89,10.7,2020,39
+IR-E-U-0172,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,51.19,63.85,41.64,61.65,54.75,17.42,2020,40
+IR-E-U-0473,S. R. M. Institute of Science and Technology,Chennai,Tamil Nadu,50.95,61.27,41.96,63.57,61.06,11.55,2020,41
+IR-E-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,50.07,66.08,25.8,65.8,75.7,17.79,2020,42
+IR-E-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,49.45,53.01,36.66,73.92,52.91,24.77,2020,43
+IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,49.26,66.01,31.1,63.81,53.47,20.25,2020,44
+IR-E-C-7252,Manipal Institute of Technology,Manipal,Karnataka,49.06,70.32,24.86,54.6,62.23,33.57,2020,45
+IR-E-U-0055,National Institute of Technology Silchar,Silchar,Assam,48.66,61.63,35.41,62.3,51.68,19.21,2020,46
+IR-E-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,48.39,54.76,36.98,64.42,50.22,29.68,2020,47
+IR-E-U-0530,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,48.24,59.71,30.56,69.0,50.72,22.89,2020,48
+IR-E-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,47.21,69.35,19.73,52.14,48.69,51.77,2020,49
+IR-E-C-41593,College of Engineering Pune,Pune,Maharashtra,46.79,61.94,21.89,67.56,51.85,29.4,2020,50
+IR-E-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.77,59.06,31.77,64.14,64.2,2.69,2020,51
+IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,46.45,66.18,25.99,59.76,58.66,9.84,2020,52
+IR-E-U-0395,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,46.13,67.71,26.19,56.17,59.29,8.05,2020,53
+IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,45.59,57.49,31.2,62.46,55.13,9.84,2020,54
+IR-E-U-0249,Visvesvaraya Technological University,Belgaum,Karnataka,45.37,66.34,30.98,53.14,49.19,6.18,2020,55
+IR-E-U-0105,Indraprastha Institute of Information Technology Delhi,New Delhi,Delhi,45.03,55.18,29.8,67.58,41.15,18.86,2020,56
+IR-E-U-0017,Jawaharlal Nehru Technological University,Hyderabad,Telangana,44.97,71.72,29.24,40.88,53.9,11.13,2020,57
+IR-E-U-0020,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,44.7,70.69,28.57,44.25,54.5,6.18,2020,58
+IR-E-C-1331,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,43.74,65.53,13.98,62.74,55.31,18.15,2020,59
+IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,Srivilliputtur,Tamil Nadu,43.71,68.66,18.42,54.26,62.06,5.21,2020,60
+IR-E-U-0619,National Institute of Technology Meghalaya,Shillong,Meghalaya,43.69,66.27,20.64,54.64,59.35,7.59,2020,61
+IR-E-U-0221,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,43.55,59.63,17.63,63.93,57.99,17.79,2020,62
+IR-E-U-0297,Defence Institute of Advanced Technology,Pune,Maharashtra,43.13,64.43,32.96,44.38,47.56,2.69,2020,63
+IR-E-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,43.11,59.67,18.32,59.11,51.54,27.44,2020,64
+IR-E-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,42.17,52.55,28.36,64.27,47.33,3.2,2020,65
+IR-E-U-0795,Indian Institute of Information Technology Guwahati,Guwahati,Assam,41.92,64.22,6.8,58.52,52.43,36.68,2020,66
+IR-E-U-0092,National Institute of Technology Raipur,Raipur,Chhattisgarh,41.58,58.88,24.26,56.99,50.7,1.63,2020,67
+IR-E-U-0080,Punjab Engineering College (Deemed To Be University),Chandigarh,Chandigarh,41.43,55.66,14.2,64.1,56.64,19.9,2020,68
+IR-E-C-24004,College of Engineering(A),Visakhapatnam,Andhra Pradesh,41.36,65.32,10.04,63.72,54.35,5.69,2020,69
+IR-E-C-1269,R. V. College of Engineering,Bengaluru,Karnataka,41.02,63.06,13.29,59.79,48.3,13.2,2020,70
+IR-E-C-33641,Veermata Jijabai Technological Institute,Mumbai,Maharashtra,40.58,57.29,11.04,68.16,52.93,11.55,2020,71
+IR-E-U-0078,Panjab University,Chandigarh,Chandigarh,40.44,40.82,43.55,51.63,40.27,7.59,2020,72
+IR-E-C-1262,B.M.S. College of Engineering,Bengaluru,Karnataka,40.35,62.07,11.92,55.53,52.58,17.79,2020,73
+IR-E-C-45375,Indian Institute of Food Processing Technology (IIFPT),Thanjavur,Tamil Nadu,40.24,70.18,5.41,53.5,58.94,9.84,2020,74
+IR-E-U-0493,National Institute of Technology Agartala,Agratala,Tripura,39.98,57.69,21.55,48.22,55.37,10.27,2020,75
+IR-E-C-6379,Netaji Subhas University of Technology (NSUT),South West,Delhi,39.97,49.6,22.68,62.41,44.55,13.6,2020,76
+IR-E-U-0620,National Institute of Technology Goa,Ponda,Goa,39.93,57.39,18.33,52.11,56.77,11.13,2020,77
+IR-E-U-0201,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,39.68,69.41,18.63,41.79,48.0,1.1,2020,78
+IR-E-U-0207,National Institute of Technology Jamshedpur,Jamshedpur,Jharkhand,39.44,56.64,12.85,64.87,45.15,11.13,2020,79
+IR-E-U-0460,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,39.4,56.5,20.5,50.75,54.83,6.65,2020,80
+IR-E-U-0286,Indian Institute of Information Technology Design & Manufacturing Jabalpur,Jabalpur,Madhya Pradesh,39.29,45.42,30.89,59.4,43.47,1.63,2020,81
+IR-E-C-36926,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,39.24,63.11,11.35,54.41,45.37,14.79,2020,82
+IR-E-C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,38.83,62.69,4.26,63.05,48.54,12.79,2020,83
+IR-E-U-0747,Chandigarh University,Mohali,Punjab,38.82,64.38,4.74,51.98,74.73,2.16,2020,84
+IR-E-C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,38.68,59.37,10.39,55.58,49.98,16.31,2020,85
+IR-E-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,38.61,46.4,32.31,49.33,47.61,3.71,2020,86
+IR-E-U-0379,Lovely Professional University,Phagwara,Punjab,38.44,58.12,15.2,48.55,65.11,2.16,2020,87
+IR-E-C-27616,University College of Engineering,Hyderabad,Telangana,38.43,60.88,4.28,65.2,53.66,4.72,2020,88
+IR-E-U-0555,Graphic Era University,Dehradun,Uttarakhand,38.32,58.7,12.89,48.0,58.38,14.0,2020,89
+IR-E-C-36969,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,38.24,64.87,6.88,45.81,48.63,26.86,2020,90
+IR-E-C-1297,Siddaganga Institute of Technology,Tumkur,Karnataka,38.23,60.33,13.44,54.58,50.17,1.63,2020,91
+IR-E-U-0072,National Institute of Technology Patna,Patna,Bihar,38.21,52.49,16.6,59.09,43.42,13.2,2020,92
+IR-E-C-30045,C.V. Raman Global University,Bhubaneswar,Odisha,37.94,59.49,5.07,58.7,57.65,10.7,2020,93
+IR-E-U-0733,PES University,Bengaluru,Karnataka,37.94,57.56,12.2,55.31,49.22,10.27,2020,93
+IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,37.86,57.7,24.09,36.36,59.88,0.55,2020,95
+IR-E-U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,37.8,50.85,19.39,53.38,50.64,9.84,2020,96
+IR-E-C-18154,University College of Engineering,Kakinada,Andhra Pradesh,37.77,58.25,10.41,59.54,50.97,1.63,2020,97
+IR-E-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,37.73,45.32,22.62,60.94,45.84,5.69,2020,98
+IR-E-C-35417,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,37.71,54.62,3.35,65.4,66.06,6.18,2020,99
+IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,37.6,45.99,17.51,62.35,53.2,7.59,2020,100
+IR-E-C-27058,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,37.52,49.72,18.31,52.51,47.18,18.86,2020,101
+IR-E-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,37.51,61.29,7.89,52.51,53.47,8.95,2020,102
+IR-E-U-0516,Indian Institute of Information Technology Allahabad,Prayagraj (Allahabad),Uttar Pradesh,37.41,42.8,15.69,68.87,44.19,16.69,2020,103
+IR-E-U-0382,Punjab Technical University,Kapurthala,Punjab,37.1,68.53,31.0,13.06,43.6,2.69,2020,104
+IR-E-C-36975,Government College of Technology,Coimbatore,Tamil Nadu,37.1,53.25,9.94,51.64,53.9,24.15,2020,104
+IR-E-C-16626,Rajalakshmi Engineering College,Chennai,Tamil Nadu,37.01,62.19,4.51,57.76,51.77,2.69,2020,106
+IR-E-U-0454,Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,36.98,59.79,11.96,46.62,56.11,5.21,2020,107
+IR-E-C-16547,Sri Sairam Engineering College,Kancheepuram,Tamil Nadu,36.91,57.03,6.36,58.74,58.23,3.2,2020,108
+IR-E-C-42054,Army Institute of Technology,Pune,Maharashtra,36.85,54.68,2.33,64.18,62.39,6.65,2020,109
+IR-E-U-0163,The Northcap University,Gurgaon,Haryana,36.84,54.88,13.94,56.91,48.16,0.0,2020,110
+IR-E-U-0130,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,36.8,47.25,10.86,68.33,49.81,7.12,2020,111
+IR-E-U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,36.72,53.75,22.22,46.02,47.26,0.0,2020,112
+IR-E-C-18886,Shri Ramdeobaba College of Engineering and Management,Nagpur,Maharashtra,36.62,60.35,5.29,56.88,51.33,4.22,2020,113
+IR-E-C-1371,New Horizon College of Engineering,Bengaluru,Karnataka,36.6,55.94,5.26,63.07,55.65,0.55,2020,114
+IR-E-U-0186,Jaypee University of Information Technology,Solan,Himachal Pradesh,36.55,48.53,18.76,54.81,46.44,7.59,2020,115
+IR-E-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,36.54,57.31,13.41,51.16,47.33,3.71,2020,116
+IR-E-U-0223,Jain University,Bengluru,Karnataka,36.49,49.08,23.49,46.44,53.2,1.1,2020,117
+IR-E-U-0043,"Vignan's Foundation for Science, Technology & Research",Guntur,Andhra Pradesh,36.28,59.21,8.03,49.36,57.2,5.21,2020,118
+IR-E-U-0367,Veer Surendra Sai University of Technology,Burla,Odisha,36.13,51.53,19.97,47.54,46.54,5.21,2020,119
+IR-E-U-0175,YMCA University of Science and Technology,Faridabad,Haryana,35.91,60.17,6.39,55.19,47.37,1.63,2020,120
+IR-E-S-8898,"National Institute of Food Technology, Enterprenurship & Management",Sonipat,Haryana,35.65,53.96,3.72,59.1,64.06,1.1,2020,121
+IR-E-C-6581,Pondicherry Engineering College,Puducherry,Pondicherry,35.49,55.46,15.73,43.96,40.61,12.79,2020,122
+IR-E-U-0445,B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,35.41,62.25,8.72,45.67,45.18,4.72,2020,123
+IR-E-C-25622,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,35.32,57.82,2.01,57.52,50.22,8.5,2020,124
+IR-E-C-33773,Bharatiya Vidya Bhavan`s Sardar Patel Institute of Technology,Mumbai,Maharashtra,35.27,53.58,7.74,59.93,46.69,2.16,2020,125
+IR-E-C-1413,Dayananda Sagar College of Engineering,Bengaluru,Karnataka,35.11,51.56,6.69,57.99,54.63,5.69,2020,126
+IR-E-C-19667,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Hyderabad,Telangana,34.99,62.78,6.38,44.97,50.33,2.16,2020,127
+IR-E-C-1352,Nitte Meenakshi Institute of Technology,Bengaluru,Karnataka,34.97,58.44,6.1,49.4,53.09,4.22,2020,128
+IR-E-U-0774,DIT University,Dehradun,Uttarakhand,34.93,58.78,7.54,43.77,59.09,3.71,2020,129
+IR-E-U-0621,National Institute of Technology Puducherry,Karaikal,Pondicherry,34.87,54.57,3.41,54.45,58.82,7.12,2020,130
+IR-E-U-0146,Nirma University,Ahmedabad,Gujarat,34.85,53.9,10.82,50.6,46.14,7.12,2020,131
+IR-E-C-1412,JSS Science and Technology University,Mysuru,Karnataka,34.81,55.76,3.86,54.88,51.44,8.05,2020,132
+IR-E-C-1400,N M A M Institute of Technology,"Nitte, Udupi",Karnataka,34.73,58.73,5.43,50.17,48.85,5.69,2020,133
+IR-E-U-0535,Rajiv Gandhi Institute of Petroleum Technology,Amethi,Uttar Pradesh,34.59,56.16,7.55,56.28,42.16,0.0,2020,134
+IR-E-C-37065,Kongu Engineering College,Perundurai,Tamil Nadu,34.45,58.13,5.76,46.86,44.25,14.79,2020,135
+IR-E-U-0854,KLE Technological University,Dharwad,Karnataka,34.34,56.85,8.11,48.85,49.29,1.63,2020,136
+IR-E-U-0384,Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,34.27,59.28,17.63,27.04,55.09,2.69,2020,137
+IR-E-U-0938,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,34.17,60.56,4.32,47.57,48.17,3.71,2020,138
+IR-E-C-18817,G. H. Raisoni College of Engineering,Nagpur,Maharashtra,34.07,46.65,9.68,61.0,49.25,0.55,2020,139
+IR-E-C-18254,Yeshwantrao Chavan College of Engineering,Nagpur,Maharashtra,34.07,51.75,8.58,53.65,52.42,0.0,2020,139
+IR-E-C-19607,CVR College Of Engineering,Ibrahimpatan,Telangana,33.87,57.68,1.21,54.84,51.32,1.1,2020,141
+IR-E-C-37089,Sri Ramakrishna Engineering College,Coimbatore,Tamil Nadu,33.79,54.46,5.15,53.3,46.28,6.18,2020,142
+IR-E-C-19650,Vardhaman College of Engineering,Rangareddy,Telangana,33.75,57.23,4.18,52.41,48.49,0.0,2020,143
+IR-E-U-0332,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,33.68,41.84,24.72,48.59,39.99,0.0,2020,144
+IR-E-U-0046,North Eastern Regional Institute of Science & Technology,Itanagar,Arunachal Pradesh,33.67,64.04,9.76,33.3,43.05,5.69,2020,145
+IR-E-U-0685,Indira Gandhi Delhi Technical University for Women,Delhi,Delhi,33.67,42.33,8.13,63.06,53.96,5.21,2020,145
+IR-E-C-1345,P E S College of Engineering,Mandya,Karnataka,33.65,59.25,0.71,51.11,54.45,0.0,2020,147
+IR-E-C-43264,National Institute of Foundry and Forge Technology (NIFFT),Ranchi,Jharkhand,33.57,54.46,2.27,58.68,41.41,6.65,2020,148
+IR-E-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,33.55,49.09,12.43,41.93,66.36,0.55,2020,149
+IR-E-C-37028,Sona College of Technology,Salem,Tamil Nadu,33.53,53.05,6.12,52.87,46.82,5.21,2020,150
+IR-E-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,33.5,56.06,5.17,48.62,51.89,2.16,2020,151
+IR-E-C-37064,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,33.43,51.06,4.37,58.86,46.6,3.71,2020,152
+IR-E-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,33.29,42.43,27.73,38.0,42.67,3.71,2020,153
+IR-E-C-6202,Heritage Institute of Technology,Kolkata,West Bengal,33.27,52.26,4.9,50.4,54.15,6.18,2020,154
+IR-E-C-16614,R. M. K. Engineering College,Thiruvallur,Tamil Nadu,33.24,54.27,2.25,54.24,53.21,1.1,2020,155
+IR-E-C-18010,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,Andhra Pradesh,33.13,55.02,5.36,47.11,53.23,2.69,2020,156
+IR-E-U-0592,Maulana Abul Kalam Azad University of Technology,Nadia,West Bengal,33.07,41.49,16.75,52.96,47.42,2.69,2020,157
+IR-E-U-0613,National Institute of Technology Manipur,Imphal,Manipur,33.02,54.89,8.29,42.86,53.25,1.63,2020,158
+IR-E-U-0213,Alliance University,Bengaluru,Karnataka,33.0,47.89,1.88,63.26,53.12,1.1,2020,159
+IR-E-C-16537,St. Josephs College of Engineering,Kancheepuram,Tamil Nadu,32.95,53.65,6.81,52.88,42.44,0.0,2020,160
+IR-E-C-19754,SR Engineering College,Warangal,Telangana,32.95,62.29,1.91,31.2,62.13,12.38,2020,160
+IR-E-U-0604,Amity University Gwalior,Gwalior,Madhya Pradesh,32.88,56.79,1.4,54.03,46.1,0.0,2020,162
+IR-E-C-6238,Haldia Institute of Technology,Haldia,West Bengal,32.83,49.15,6.8,50.2,55.8,4.22,2020,163
+IR-E-C-8277,Government Engineering College,Thrissur,Kerala,32.81,57.13,2.86,49.94,45.99,2.16,2020,164
+IR-E-I-1015,Vishwakarma Institute of Technology,Pune,Maharashtra,32.72,47.21,6.45,59.26,44.53,3.2,2020,165
+IR-E-U-0864,Harcourt Butler Technical University,Kanpur Nagar,Uttar Pradesh,32.69,59.15,2.31,46.82,42.34,6.65,2020,166
+IR-E-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,32.51,48.86,14.26,39.13,53.15,4.22,2020,167
+IR-E-C-11015,Walchand College of Engineering,Sangli,Maharashtra,32.39,50.11,4.15,54.99,47.43,3.71,2020,168
+IR-E-C-1336,BMS Institute of Technology & Management,Bengaluru,Karnataka,32.36,48.02,4.04,51.43,53.36,11.13,2020,169
+IR-E-C-19706,Institute of Aeronautical Engineering,Hyderabad,Telangana,32.26,50.61,7.28,45.04,54.16,4.72,2020,170
+IR-E-C-33584,K. J. Somaiya College of Engineering,Mumbai,Maharashtra,32.25,51.95,2.84,59.03,39.37,0.55,2020,171
+IR-E-C-19534,Goka Raju Ranga Raju Institute of Engineering & Technology,Hyderabad,Telangana,32.24,53.11,2.72,52.44,48.87,1.1,2020,172
+IR-E-C-42242,Maharshi Karve Stree Shikshan Samstha's Cummins College of Engineering for Women,Pune,Maharashtra,32.23,50.8,2.95,52.51,53.89,2.16,2020,173
+IR-E-U-0169,ManavRachna International Institute of Research & Studies,Faridabad,Haryana,32.21,51.95,4.1,51.73,49.28,1.1,2020,174
+IR-E-C-1438,The National Institute of Engineering,Mysore,Karnataka,32.17,51.97,2.65,51.05,50.57,5.21,2020,175
+IR-E-C-16572,Sri Venkateswara College of Engineering,Kancheepuram,Tamil Nadu,32.12,56.18,4.91,48.74,38.31,2.16,2020,176
+IR-E-U-0147,Pandit Deendayal Petroleum University,Gandhinagar,Gujarat,32.08,49.08,11.97,50.34,33.8,3.2,2020,177
+IR-E-C-9462,"School of Engineering, Cochin University of Science and Technology",Cochin,Kerala,32.04,50.08,14.19,38.55,44.77,5.69,2020,178
+IR-E-C-30153,"Silicon Institute of Technology (SIT), Bhubaneswar",Bhubaneswar,Odisha,32.0,52.9,2.66,47.2,56.2,2.69,2020,179
+IR-E-C-19747,Anurag Group of Institutions,Hyderabad,Telangana,31.74,56.55,1.44,43.97,54.98,0.55,2020,180
+IR-E-U-0373,Chitkara University,Rajpura,Punjab,31.72,48.34,7.56,47.86,53.83,0.0,2020,181
+IR-E-U-0455,"Indian Institute of Information Technology, Design & Manufacturing",Chennai,Tamil Nadu,31.63,35.51,7.8,57.62,53.05,18.15,2020,182
+IR-E-U-0739,Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,31.6,47.49,15.84,44.1,35.1,2.69,2020,183
+IR-E-C-26929,Sree Vidyanikethan Engineering College,A.Rangampet,Andhra Pradesh,31.54,54.06,1.24,50.93,47.58,0.0,2020,184
+IR-E-C-26928,JNTUA College of Engineering,Anantapur,Andhra Pradesh,31.52,55.12,3.96,48.19,36.84,4.72,2020,185
+IR-E-C-1398,BNM Institute of Technology,Bengaluru,Karnataka,31.48,55.66,1.11,46.87,50.8,0.0,2020,186
+IR-E-C-26162,Vasavi College of Engineering,Hyderabad,Telangana,31.46,48.8,0.75,56.58,50.47,2.16,2020,187
+IR-E-C-17913,Gayatri Vidya Parishad College of Engineering,Visakhapatnam,Andhra Pradesh,31.38,54.28,1.69,45.48,48.12,6.65,2020,188
+IR-E-C-27089,National Engineering College,Kovilpatti,Tamil Nadu,31.36,53.98,5.99,42.9,46.85,1.1,2020,189
+IR-E-C-26905,G.Pulla Reddy Engineering College,Kurnool,Andhra Pradesh,31.35,53.11,1.15,48.27,51.6,2.69,2020,190
+IR-E-C-6192,Institute of Engineering & Management,Kolkata,West Bengal,31.33,43.74,7.8,51.73,52.96,2.16,2020,191
+IR-E-C-16476,Sri Sai Ram Institute of Technology,Chennai,Tamil Nadu,31.32,48.89,2.8,54.08,47.67,2.16,2020,192
+IR-E-U-0129,Dharmsinh Desai University,Nadiad,Gujarat,31.29,49.4,2.29,59.12,36.87,2.69,2020,193
+IR-E-U-0405,The LNM Institute of Information Technology,Jaipur,Rajasthan,31.24,41.95,12.14,53.25,43.08,0.55,2020,194
+IR-E-U-0162,Guru Jambheshwar University of Science and Technology,Hisar,Haryana,31.23,41.05,13.82,51.92,40.13,3.71,2020,195
+IR-E-C-42227,Dr. D. Y. Patil Institute of Technology,Pune,Maharashtra,31.15,49.69,1.66,53.63,48.5,1.63,2020,196
+IR-E-C-49660,Pimpri Chinchwad College of Engineering,Pune,Maharashtra,31.13,46.11,7.36,50.73,48.76,0.55,2020,197
+IR-E-C-34167,Ramrao Adik Institute of Technology,Navi Mumbai,Maharashtra,31.11,53.6,3.82,45.75,47.25,0.0,2020,198
+IR-E-C-48145,BVRIT Hyderabad,Hyderabad,Telangana,31.1,49.16,0.46,53.74,52.98,1.63,2020,199
+IR-E-U-0615,National Institute of Technology Arunachal Pradesh,Itanagar,Arunachal Pradesh,31.09,50.56,9.06,39.36,46.21,7.12,2020,200
+IR-E-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,89.05,93.55,92.39,84.36,63.99,100.0,2019,1
+IR-E-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,85.36,85.8,96.18,80.32,56.19,90.85,2019,2
+IR-E-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,84.4,89.12,95.3,76.47,48.17,89.61,2019,3
+IR-E-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,79.41,73.14,88.2,84.12,57.79,84.14,2019,4
+IR-E-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,77.57,79.07,81.79,82.56,46.61,81.35,2019,5
+IR-E-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,74.57,75.05,75.9,89.84,58.65,54.61,2019,6
+IR-E-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,70.87,82.55,63.6,78.45,58.86,54.49,2019,7
+IR-E-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,63.92,78.91,49.18,71.71,56.21,55.38,2019,8
+IR-E-U-0439,Anna University,Chennai,Tamil Nadu,63.12,63.17,64.13,63.24,52.66,70.13,2019,9
+IR-E-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,61.62,68.36,46.64,72.76,62.2,63.54,2019,10
+IR-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,59.8,68.61,45.63,77.36,53.16,47.42,2019,11
+IR-E-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,59.73,67.76,57.3,76.32,49.68,19.77,2019,12
+IR-E-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,59.35,75.66,49.17,70.18,57.3,21.29,2019,13
+IR-E-U-0575,Jadavpur University,Kolkata,West Bengal,59.09,53.4,65.71,74.79,37.83,46.2,2019,14
+IR-E-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,58.18,63.62,59.12,70.03,38.12,35.31,2019,15
+IR-E-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,57.75,59.99,56.05,75.71,46.34,31.6,2019,16
+IR-E-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,56.8,77.5,37.78,65.03,57.3,34.78,2019,17
+IR-E-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,56.46,54.65,57.34,63.57,56.69,44.81,2019,18
+IR-E-U-0584,Indian Institute of Engineering Science and Technology,Shibpur,West Bengal,56.35,73.65,45.77,59.79,47.23,38.39,2019,19
+IR-E-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,56.0,78.61,34.57,68.06,65.65,18.72,2019,20
+IR-E-U-0237,National Institute of Technology Karnataka,Surathkal,Karnataka,55.25,59.48,41.31,75.46,50.4,48.85,2019,21
+IR-E-U-0064,Indian Institute of Technology Patna,Patna,Bihar,54.86,75.13,39.08,65.02,50.48,25.54,2019,22
+IR-E-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,54.73,69.51,44.96,67.28,55.65,13.66,2019,23
+IR-E-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,54.32,80.59,31.01,56.26,61.34,34.59,2019,24
+IR-E-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,53.82,63.61,35.15,71.4,54.5,44.67,2019,25
+IR-E-U-0025,National Institute of Technology Warangal,Warangal,Telangana,53.21,68.19,31.77,72.5,54.98,32.17,2019,26
+IR-E-U-0108,Jamia Millia Islamia,New Delhi,Delhi,53.13,64.25,42.18,75.11,50.9,10.88,2019,27
+IR-E-U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,52.69,63.47,28.22,77.01,61.09,36.71,2019,28
+IR-E-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.37,76.84,29.22,64.57,60.1,16.27,2019,29
+IR-E-U-0255,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,52.12,77.52,22.75,61.95,56.2,40.33,2019,30
+IR-E-U-0334,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,51.27,64.81,40.49,65.09,57.66,8.92,2019,31
+IR-E-U-0363,Siksha `O` Anusandhan,Bhubaneswar,Odisha,50.39,71.35,26.31,66.43,60.53,17.65,2019,32
+IR-E-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,50.1,66.84,35.8,57.78,52.0,25.54,2019,33
+IR-E-U-0098,Delhi Technological University,New Delhi,Delhi,49.97,60.27,28.07,72.07,53.38,37.22,2019,34
+IR-E-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,49.03,69.51,41.27,48.29,56.32,5.07,2019,35
+IR-E-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,48.95,59.85,33.4,63.04,62.18,21.53,2019,36
+IR-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,48.94,69.13,28.51,63.63,52.66,16.55,2019,37
+IR-E-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,48.83,65.79,31.04,64.66,56.42,12.14,2019,38
+IR-E-U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,48.73,53.08,34.19,73.4,52.49,26.21,2019,39
+IR-E-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,47.74,69.39,39.46,53.28,32.1,12.14,2019,40
+IR-E-U-0172,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,47.58,61.36,36.64,58.47,51.21,13.66,2019,41
+IR-E-U-0530,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,47.49,63.13,28.38,65.55,49.49,19.77,2019,42
+IR-E-C-7252,Manipal Institute of Technology,Manipal,Karnataka,47.31,68.43,20.68,53.91,62.59,35.31,2019,43
+IR-E-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,47.28,68.97,17.4,53.37,48.73,58.35,2019,44
+IR-E-U-0017,Jawaharlal Nehru Technological University,Hyderabad,Telangana,47.13,71.2,28.65,55.01,49.64,12.14,2019,45
+IR-E-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,46.47,52.84,36.16,63.3,46.54,24.63,2019,46
+IR-E-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,46.07,61.42,28.29,62.26,61.93,5.07,2019,47
+IR-E-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,45.94,65.59,19.17,61.6,68.5,13.36,2019,48
+IR-E-C-41593,College of Engineering,Pune,Maharashtra,45.89,58.17,26.17,64.17,51.79,25.77,2019,49
+IR-E-U-0395,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,45.75,67.68,23.44,57.02,63.26,6.86,2019,50
+IR-E-U-0055,National Institute of Technology Silchar,Silchar,Assam,45.61,61.31,29.86,61.71,47.42,11.83,2019,51
+IR-E-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,45.38,70.88,21.8,58.27,56.06,3.19,2019,52
+IR-E-U-0410,Malviya National Institute of Technology,Jaipur,Rajasthan,45.2,55.73,38.2,58.34,46.63,6.86,2019,53
+IR-E-U-0078,Panjab University,Chandigarh,Chandigarh,43.59,41.83,50.63,51.81,44.72,10.24,2019,54
+IR-E-U-0105,Indraprastha Institute of Information Technology,New Delhi,Delhi,43.49,56.55,24.08,69.36,41.49,12.76,2019,55
+IR-E-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,43.38,61.68,18.98,56.74,49.23,29.2,2019,56
+IR-E-U-0297,Defence Institute of Advanced Technology,Pune,Maharashtra,43.29,66.68,32.43,41.05,47.69,5.8,2019,57
+IR-E-U-0149,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,41.88,51.01,27.6,60.91,51.3,9.92,2019,58
+IR-E-C-24004,College of Engineering Visakhapatnam,Visakhapatnam,Andhra Pradesh,41.72,65.78,7.41,67.66,55.88,6.51,2019,59
+IR-E-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,41.48,54.71,23.0,60.48,52.12,8.59,2019,60
+IR-E-U-0458,Kalasalingam Academy of Research and Higher Education,Srivilliputtur,Tamil Nadu,41.26,67.6,14.08,53.96,55.7,3.95,2019,61
+IR-E-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,40.98,53.27,24.05,66.59,40.74,3.95,2019,62
+IR-E-C-1269,R. V. College of Engineering,Bengaluru,Karnataka,40.88,63.58,10.81,60.99,50.62,13.06,2019,63
+IR-E-C-1331,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,40.54,62.87,8.61,60.49,56.32,13.66,2019,64
+IR-E-U-0221,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,40.51,54.81,14.26,61.96,55.76,18.19,2019,65
+IR-E-S-8931,National Institute of Industrial Engineering,Mumbai,Maharashtra,40.48,64.8,4.46,67.54,57.18,4.7,2019,66
+IR-E-U-0619,National Institute of Technology Meghalaya,Shillong,Meghalaya,40.32,65.85,18.2,44.33,58.13,4.33,2019,67
+IR-E-C-36969,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,40.1,63.46,9.75,50.95,46.48,32.94,2019,68
+IR-E-C-1262,B. M. S. College of Engineering,Bengaluru,Karnataka,39.67,62.0,8.01,58.99,53.02,15.71,2019,69
+IR-E-U-0493,National Institute of Technology Agartala,Agratala,Tripura,39.53,58.62,20.58,49.02,52.46,7.22,2019,70
+IR-E-C-43708,College of Engineering,Thiruvananthapuram,Kerala,39.42,59.95,8.9,60.96,49.4,16.27,2019,71
+IR-E-U-0460,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,39.37,55.46,18.11,49.4,55.47,18.72,2019,72
+IR-E-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,39.21,49.91,30.6,50.2,46.25,3.95,2019,73
+IR-E-U-0092,National Institute of Technology Raipur,Raipur,Chhattisgarh,39.09,56.46,20.11,54.48,49.4,2.81,2019,74
+IR-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",Jabalpur,Madhya Pradesh,38.94,44.76,28.02,60.95,45.9,3.19,2019,75
+IR-E-C-6581,Pondicherry Engineering College,Puducherry,Pondicherry,38.56,59.92,18.37,46.02,44.74,13.96,2019,76
+IR-E-C-36926,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,38.55,61.09,8.59,57.4,45.64,15.99,2019,77
+IR-E-U-0080,PEC University of Technology,Chandigarh,Chandigarh,38.42,49.83,12.62,61.98,56.49,16.27,2019,78
+IR-E-C-1297,Siddaganga Institute of Technology,Tumkur,Karnataka,37.98,60.4,11.37,56.07,50.84,1.63,2019,79
+IR-E-U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,37.87,47.52,18.18,56.0,53.57,15.99,2019,80
+IR-E-U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,37.82,46.9,20.12,58.51,56.86,3.19,2019,81
+IR-E-U-0516,Indian Institute of Information Technology Allahabad,Allahabad,Uttar Pradesh,37.74,42.66,16.38,68.86,45.45,17.1,2019,82
+IR-E-C-27616,University College of Engineering,Hyderabad,Telangana,37.68,60.92,3.78,65.43,50.24,1.63,2019,83
+IR-E-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,37.59,60.92,6.98,53.07,51.8,14.26,2019,84
+IR-E-U-0201,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,37.32,64.84,15.99,45.8,37.52,1.63,2019,85
+IR-E-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,37.22,53.49,25.53,37.45,57.83,2.41,2019,86
+IR-E-U-0620,National Institute of Technology Goa,Ponda,Goa,37.06,59.23,12.79,50.17,48.37,5.8,2019,87
+IR-E-C-27058,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,36.92,51.38,16.75,51.01,48.21,14.55,2019,88
+IR-E-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,36.66,47.38,29.9,43.2,45.19,3.19,2019,89
+IR-E-C-36975,Government College of Technology,Coimbatore,Tamil Nadu,36.42,52.33,8.3,51.77,51.89,26.87,2019,90
+IR-E-C-42054,Army Institute of Technology,Pune,Maharashtra,36.39,53.18,2.46,64.86,58.4,8.92,2019,91
+IR-E-U-0130,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,36.39,48.98,10.06,64.9,46.8,10.24,2019,91
+IR-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,36.14,53.31,3.61,59.38,66.1,5.8,2019,93
+IR-E-C-30045,C. V. Raman College of Engineering,Bhubaneswar,Odisha,36.12,54.56,4.24,60.8,53.58,9.59,2019,94
+IR-E-U-0454,Hindustan Institute of Technology and Science,Chennai,Tamil Nadu,36.11,59.96,8.47,47.83,53.23,6.86,2019,95
+IR-E-U-0382,Punjab Technical University,Kapurthala,Punjab,35.99,76.47,24.94,5.46,42.83,2.02,2019,96
+IR-E-C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,35.97,57.92,2.29,63.51,46.64,5.44,2019,97
+IR-E-C-36984,Bannari Amman Institute of Technology,Sathyamangalam,Tamil Nadu,35.9,56.28,6.59,53.94,44.92,17.65,2019,98
+IR-E-C-37065,Kongu Engineering College,Perundurai,Tamil Nadu,35.89,58.18,8.21,48.37,45.7,17.38,2019,99
+IR-E-C-25622,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,35.86,61.07,2.16,56.8,51.01,4.33,2019,100
+IR-E-C-37028,Sona College of Technology,Salem,Tamil Nadu,35.79,61.49,6.57,50.52,48.69,3.95,2019,101
+IR-E-C-6192,Institute of Engineering & Management,Kolkata,West Bengal,35.79,51.11,10.95,55.18,58.6,2.81,2019,101
+IR-E-C-18154,University College of Engineering,Kakinada,Andhra Pradesh,35.75,55.08,4.2,61.68,55.55,0.82,2019,103
+IR-E-U-0555,Graphic Era University,Dehradun,Uttarakhand,35.69,59.87,14.68,39.21,54.45,0.41,2019,104
+IR-E-C-33641,Veermata Jijabai Technological Institute,Mumbai,Maharashtra,35.64,46.15,10.65,68.05,40.99,8.92,2019,105
+IR-E-C-1371,New Horizon College of Engineering,Bengaluru,Karnataka,35.5,56.3,1.71,61.75,56.68,0.82,2019,106
+IR-E-U-0043,"Vignan`s Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,35.48,62.2,5.55,46.65,56.55,1.63,2019,107
+IR-E-U-0487,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,35.32,66.45,4.16,48.45,43.71,0.82,2019,108
+IR-E-C-19667,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Hyderabad,Telangana,35.28,62.34,4.63,50.49,50.07,0.82,2019,109
+IR-E-N-10,SVKM`s Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,35.26,57.24,6.48,51.37,57.48,1.22,2019,110
+IR-E-C-18817,G. H. Raisoni College of Engineering,Nagpur,Maharashtra,35.19,52.08,8.99,59.86,48.22,0.82,2019,111
+IR-E-C-18886,Shri Ramdeobaba College of Engineering and Management,Nagpur,Maharashtra,35.02,61.36,2.75,54.7,48.52,0.0,2019,112
+IR-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,35.01,45.07,18.89,58.63,35.09,5.8,2019,113
+IR-E-C-33773,Bharatiya Vidya Bhavan`s Sardar Patel Institute of Technology,Mumbai,Maharashtra,34.79,51.68,6.16,62.73,47.19,1.63,2019,114
+IR-E-U-0223,Jain university,Bengluru,Karnataka,34.76,47.38,18.64,46.0,56.74,0.82,2019,115
+IR-E-C-9462,"School of Engineering, Cochin University of Science and Technology",Cochin,Kerala,34.49,49.45,23.58,37.28,44.71,6.51,2019,116
+IR-E-U-0747,Chandigarh University,Mohali,Punjab,34.48,50.42,3.17,56.81,68.46,2.02,2019,117
+IR-E-S-8898,"National Institute of Food Technology, Enterprenurship & Management",Sonipat,Haryana,34.48,51.7,2.52,59.41,62.94,0.41,2019,117
+IR-E-U-0163,The Northcap University,Gurgaon,Haryana,34.48,54.21,13.5,46.11,49.48,0.0,2019,117
+IR-E-C-1412,Sri Jayachamarajendra College of Engineering,Mysore,Karnataka,34.43,56.21,2.45,55.88,52.19,4.33,2019,120
+IR-E-U-0186,Jaypee University of Information Technology,Solan,Himachal Pradesh,34.42,43.49,16.46,47.36,47.63,22.03,2019,121
+IR-E-U-0332,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,34.37,44.22,25.78,45.6,42.47,0.0,2019,122
+IR-E-C-16547,Sri Sairam Engineering College,Kancheepuram,Tamil Nadu,34.32,54.76,3.28,56.4,52.34,3.95,2019,123
+IR-E-C-16590,Saveetha Engineering College,Sriperumbudur,Tamil Nadu,34.14,55.68,2.99,55.82,53.45,0.41,2019,124
+IR-E-U-0379,Lovely Professional University,Phagwara,Punjab,34.09,53.11,10.08,44.66,61.73,0.41,2019,125
+IR-E-U-0367,Veer Surendra Sai University of Technology,Burla,Odisha,34.08,48.93,15.65,48.38,45.98,4.33,2019,126
+IR-E-C-1413,Dayananda Sagar College of Engineering,Bengaluru,Karnataka,33.99,51.05,4.34,57.87,55.33,2.81,2019,127
+IR-E-C-1400,N. M. A. M. Institute of Technology,Nitte,Karnataka,33.84,55.92,3.66,49.16,51.38,9.92,2019,128
+IR-E-C-16537,St. Josephs College of Engineering,Kancheepuram,Tamil Nadu,33.84,57.62,5.38,54.55,40.28,0.0,2019,128
+IR-E-U-0207,National Institute of Technology Jamshedpur,Jamshedpur,Jharkhand,33.8,49.66,9.48,61.14,28.02,10.24,2019,130
+IR-E-U-0445,B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,33.7,58.98,7.73,43.23,45.28,5.07,2019,131
+IR-E-C-19607,CVR College of Engineering,Ibrahimpatan,Telangana,33.65,56.59,0.62,56.32,51.43,0.82,2019,132
+IR-E-U-0384,Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,33.63,58.54,17.37,27.76,52.68,0.41,2019,133
+IR-E-U-0072,National Institute of Technology Patna,Patna,Bihar,33.58,51.95,10.72,49.46,39.9,8.92,2019,134
+IR-E-C-18254,Yeshwantrao Chavan College of Engineering,Nagpur,Maharashtra,33.58,56.43,9.61,43.84,50.01,0.0,2019,134
+IR-E-U-0146,Nirma University,Ahmedabad,Gujarat,33.46,51.3,10.0,50.12,44.72,5.8,2019,136
+IR-E-U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,33.45,50.12,13.13,49.53,40.58,5.07,2019,137
+IR-E-C-37089,Sri Ramakrishna Engineering College,Coimbatore,Tamil Nadu,33.36,57.1,4.19,48.73,47.13,5.07,2019,138
+IR-E-C-19706,Institute of Aeronautical Engineering,Hyderabad,Telangana,33.24,53.43,2.98,53.67,53.39,2.41,2019,139
+IR-E-C-16626,Rajalakshmi Engineering College,Chennai,Tamil Nadu,33.24,52.81,4.21,54.51,51.21,1.22,2019,139
+IR-E-U-0554,G. B. Pant Universtiy of Agriculture and Technology,Pantnagar,Uttarakhand,32.87,50.9,13.11,45.14,42.36,3.95,2019,141
+IR-E-C-1352,NITTE Meenakshi Institute of Technology,Bengaluru,Karnataka,32.82,53.89,3.6,48.33,53.87,5.07,2019,142
+IR-E-C-16572,Sri Venkateswara College of Engineering,Kancheepuram,Tamil Nadu,32.71,58.29,4.32,49.22,37.96,2.81,2019,143
+IR-E-U-0175,YMCA University of Science & Tech,Faridabad,Haryana,32.47,53.5,3.87,53.18,42.16,3.95,2019,144
+IR-E-U-0564,University of Petroleum and Energy Studies,Dehradun,Uttarakhand,32.46,44.98,10.08,52.18,52.3,2.81,2019,145
+IR-E-C-37064,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,32.46,53.36,1.01,56.19,46.26,2.81,2019,145
+IR-E-C-48145,BVRIT Hyderabad,Hyderabad,Telangana,32.36,52.34,0.46,54.81,53.61,2.02,2019,147
+IR-E-U-0613,National Institute of Technology Manipur,Manipur,Manipur,32.31,55.99,4.59,43.66,51.55,2.41,2019,148
+IR-E-U-0733,PES University,Bengaluru,Karnataka,32.28,53.6,11.85,32.32,52.46,9.26,2019,149
+IR-E-C-6202,Heritage Institute of Technology,Kolkata,West Bengal,32.26,49.97,4.92,51.58,51.91,2.81,2019,150
+IR-E-C-26783,PSNA College of Engineering and Technology,Dindigul,Tamil Nadu,32.26,53.46,3.77,51.11,47.47,1.22,2019,150
+IR-E-C-19650,Vardhaman College of Engineering,Rangareddy,Telangana,32.21,53.89,2.85,51.95,47.85,0.0,2019,152
+IR-E-C-11015,Walchand College of Engineering,Sangli,Maharashtra,32.2,50.09,4.24,55.5,42.62,5.44,2019,153
+IR-E-U-0938,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,32.11,56.37,3.77,47.71,44.13,1.22,2019,154
+IR-E-C-41351,Bansilal Ramnath Agarwal Charitable Trust`s Vishwakarama Institute of Technology,Pune,Maharashtra,32.1,49.25,3.99,57.7,43.39,2.41,2019,155
+IR-E-C-1398,BNM Institute of Technology,Bengaluru,Karnataka,32.08,56.63,0.91,47.99,51.04,1.22,2019,156
+IR-E-C-16614,R. M. K. Engineering College,Thiruvallur,Tamil Nadu,32.07,50.02,3.22,53.98,51.25,1.63,2019,157
+IR-E-C-1336,BMS Institute of Technology & Management,Bengaluru,Karnataka,32.07,48.31,2.52,54.21,54.49,5.44,2019,157
+IR-E-U-0854,KLE Technological University,Dharwad,Karnataka,32.05,52.49,4.07,50.03,47.89,2.81,2019,159
+IR-E-C-6257,Narula Institute of Technology,Kolkata,West Bengal,32.01,54.1,1.58,46.37,59.95,0.41,2019,160
+IR-E-C-1345,P E S College of Engineering,Mandya,Karnataka,31.98,58.74,0.83,48.07,43.41,1.63,2019,161
+IR-E-U-0685,Indira Gandhi Delhi Technical University for Women,Delhi,Delhi,31.93,39.18,6.28,62.08,53.74,5.07,2019,162
+IR-E-C-1291,Dr. Ambedkar Institute of Technology,Bengaluru,Karnataka,31.91,48.42,1.55,59.9,46.54,2.81,2019,163
+IR-E-U-0169,Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,31.9,58.87,3.76,39.89,50.45,0.82,2019,164
+IR-E-U-0592,Maulana Abul Kalam Azad University of Technology,Nadia,West Bengal,31.87,38.35,16.86,56.34,39.93,0.41,2019,165
+IR-E-C-27089,National Engineering College,Kovilpatti,Tamil Nadu,31.85,53.82,6.14,43.59,48.16,3.19,2019,166
+IR-E-C-26929,Sree Vidyanikethan Engineering College,A.Rangampet,Andhra Pradesh,31.7,55.35,0.69,49.81,48.01,1.22,2019,167
+IR-E-C-19569,Padmasri Dr. B.V. Raju Institute of Technology,Medak,Telangana,31.59,55.09,0.81,48.8,50.56,0.0,2019,168
+IR-E-C-19747,Anurag Group of Institutions,Hyderabad,Telangana,31.58,53.15,0.88,52.64,48.14,0.41,2019,169
+IR-E-C-26162,Vasavi College of Engineering,Hyderabad,Telangana,31.56,50.53,0.7,57.17,47.64,0.0,2019,170
+IR-E-C-18010,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,Andhra Pradesh,31.53,52.92,4.57,46.21,48.45,2.02,2019,171
+IR-E-C-34167,Ramrao Adik Institute of Technology,Navi Mumbai,Maharashtra,31.45,51.93,2.23,50.52,50.99,0.0,2019,172
+IR-E-U-0046,North Eastern Regional Institute of Science & Technology,Itanagar,Arunachal Pradesh,31.4,63.39,8.19,27.52,39.13,5.07,2019,173
+IR-E-C-1406,C M R Institute of Technology,Bengaluru,Karnataka,31.36,52.63,1.44,48.24,52.06,2.81,2019,174
+IR-E-C-6238,Haldia Institute of Technology,Haldia,West Bengal,31.36,47.03,6.55,48.02,54.42,2.41,2019,174
+IR-E-C-16504,Sri Venkateswara College of Engineering and Technology,Chittoor,Andhra Pradesh,31.3,54.96,0.39,51.84,42.8,0.41,2019,176
+IR-E-C-26905,G. Pulla Reddy Engineering College,Kurnool,Andhra Pradesh,31.26,54.19,0.6,47.37,52.32,1.22,2019,177
+IR-E-C-1438,The National Institute of Engineering,Mysore,Karnataka,31.25,48.68,2.59,51.89,50.16,4.7,2019,178
+IR-E-C-19534,Goka Raju Ranga Raju Institute of Engineering & Technology,Hyderabad,Telangana,31.19,50.85,1.98,51.5,49.28,1.22,2019,179
+IR-E-C-34112,Sardar Patel College of Engineering,Mumbai,Maharashtra,31.14,47.03,1.8,61.53,39.0,2.81,2019,180
+IR-E-C-27400,Kakatiya Institute of Technology & Science,Warangal,Telangana,31.14,55.87,0.98,44.6,49.69,2.02,2019,180
+IR-E-C-33584,K. J. Somaiya College of Engineering,Mumbai,Maharashtra,31.07,49.28,1.45,58.56,40.6,0.82,2019,182
+IR-E-C-17962,Shri Vishnu Engineering College for Women,Bhimavaram,Andhra Pradesh,31.0,50.42,0.47,52.23,51.65,1.22,2019,183
+IR-E-C-37050,Dr. Mahalingam College of Engineering and Technology,Pollachi,Tamil Nadu,30.91,52.77,2.03,47.52,45.02,4.7,2019,184
+IR-E-C-26928,JNTUA College of Engineering,Anantapur,Andhra Pradesh,30.88,50.84,2.32,54.07,37.56,3.58,2019,185
+IR-E-U-0213,Alliance University,Bengaluru,Karnataka,30.79,40.58,1.26,61.61,57.6,1.63,2019,186
+IR-E-I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,30.79,44.27,13.03,35.55,64.09,0.82,2019,186
+IR-E-C-42242,Maharshi Karve Stree Shikshan Samstha`s Cummins College of Engineering for Women,Pune,Maharashtra,30.75,50.06,0.98,51.37,48.91,2.81,2019,188
+IR-E-C-24163,Sagi Ramakrishnam Raju Engineering College,Bhimavaram,Andhra Pradesh,30.61,53.78,0.73,54.27,32.5,1.63,2019,189
+IR-E-C-16490,Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College,Morai,Tamil Nadu,30.61,45.97,5.25,52.77,45.74,1.22,2019,189
+IR-E-C-1360,Basaveshwar Engineering College,Bagalkot,Karnataka,30.58,51.15,1.27,50.9,44.82,2.02,2019,191
+IR-E-C-49660,Pimpri Chinchwad College of Engineering,Pune,Maharashtra,30.52,49.29,3.63,48.9,48.56,0.0,2019,192
+IR-E-C-33525,Thakur College of Engineering & Technology,Mumbai,Maharashtra,30.51,50.2,0.8,55.08,41.94,0.0,2019,193
+IR-E-C-16476,Sri Sai Ram Institute of Technology,Chennai,Tamil Nadu,30.48,47.09,2.18,54.5,46.82,1.22,2019,194
+IR-E-C-33777,Shri Vile Parle Kelavani Mandal`s Dwarkadas J. Sanghvi College of Engineering,Mumbai Suburban,Maharashtra,30.47,44.85,2.32,59.63,42.75,1.22,2019,195
+IR-E-U-0461,M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,30.45,48.24,7.69,44.98,45.14,1.63,2019,196
+IR-E-U-0455,"Indian Institute of Information Technology, Design & Manufacturing",Chennai,Tamil Nadu,30.37,36.01,5.71,51.45,54.74,21.04,2019,197
+IR-E-C-6528,Dr. B. R. Ambedkar Institute of Technology,South Andaman,Andaman and Nicobar Islands,30.35,63.62,0.17,36.0,35.76,4.33,2019,198
+IR-E-C-17913,Gayatri Vidya Parishad College of Engineering,Visakhapatnam,Andhra Pradesh,30.35,52.14,1.26,46.87,47.57,2.02,2019,198
+IR-E-C-16560,Easwari Engineering College,Chennai,Tamil Nadu,30.31,48.15,2.9,50.17,47.64,2.02,2019,200
+IR-2-E-OE-U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,88.95,93.83,91.44,84.91,63.88,100.0,2018,1
+IR-3-E-OEM-U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,84.82,89.61,96.04,76.53,44.71,93.48,2018,2
+IR-3-E-OEM-I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,82.18,80.83,89.35,81.47,59.72,88.6,2018,3
+IR-5-E-OEMAL-U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,77.78,73.73,84.26,85.65,53.99,78.51,2018,4
+IR-3-E-OEM-I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,75.24,78.51,77.15,78.99,41.46,85.89,2018,5
+IR-4-E-OEMA-U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,72.57,72.8,72.08,88.9,56.66,56.63,2018,6
+IR-2-E-OE-U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,69.25,86.29,61.54,76.51,50.46,45.49,2018,7
+IR-4-E-OEMA-U-0439,Anna University,Chennai,Tamil Nadu,67.04,64.6,72.08,68.55,52.3,71.04,2018,8
+IR-2-E-OE-U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,60.87,80.63,44.22,71.03,55.11,36.94,2018,9
+IR-3-E-OEP-U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,60.63,70.22,58.51,73.21,53.43,20.35,2018,10
+IR-2-E-OE-U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,60.35,66.49,46.44,72.02,60.96,59.69,2018,11
+IR-2-E-OE-U-0575,Jadavpur University,Kolkata,West Bengal,59.82,58.26,68.5,77.63,29.09,33.49,2018,12
+IR-2-E-OE-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,Dhanbad,Jharkhand,59.24,64.7,53.04,74.73,59.99,29.73,2018,13
+IR-2-E-OE-U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,57.95,81.42,40.8,69.67,56.16,17.28,2018,14
+IR-2-E-OE-U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,57.05,61.82,52.36,78.74,45.76,24.71,2018,15
+IR-3-E-OEM-U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,57.02,54.64,55.4,65.51,59.22,49.93,2018,16
+IR-3-E-OEP-U-0391,Birla Institute of Technology & Science,Pilani,Rajasthan,56.98,68.55,38.31,69.71,60.21,49.6,2018,17
+IR-2-E-OE-U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,56.89,81.45,39.77,64.08,59.02,17.99,2018,18
+IR-1-E-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,56.62,64.43,42.55,77.62,41.66,48.44,2018,19
+IR-2-E-EM-I-1480,Thapar Institute of Engineering and Technology,Patiala,Punjab,56.14,69.77,45.75,73.11,56.55,12.01,2018,20
+IR-2-E-OE-U-0237,National Institute of Technology Surathkal,Surathkal,Karnataka,53.16,60.34,38.36,71.27,51.1,41.93,2018,21
+IR-2-E-OE-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,53.24,67.15,45.47,61.09,40.27,32.03,2018,21
+IR-2-E-OE-U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.8,77.84,29.53,65.29,60.61,14.73,2018,22
+IR-2-E-OE-U-0255,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,52.74,78.87,20.76,62.12,60.82,43.47,2018,23
+IR-2-E-OE-U-0064,Indian Institute of Technology Patna,Patna,Bihar,52.37,74.43,35.03,65.64,49.3,14.73,2018,24
+IR-2-E-OE-U-0025,National Institute of Technology Warangal,Warangal,Telangana,51.82,67.25,31.43,72.38,54.79,22.59,2018,25
+IR-5-E-OEMAP-U-0202,Birla Institute of Technology,Ranchi,Jharkhand,51.12,71.22,36.61,59.88,51.69,16.21,2018,26
+IR-2-E-OE-U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,51.28,76.9,30.48,63.07,54.64,9.96,2018,26
+IR-2-E-OE-U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,50.45,74.18,26.31,59.24,52.64,32.03,2018,27
+IR-3-E-OEM-C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,50.31,69.82,23.64,55.96,49.87,60.95,2018,29
+IR-1-E-E-U-0334,Visvesvaraya National Institute of Technology,Nagpur,Maharashtra,49.55,63.78,35.85,64.68,56.13,11.2,2018,31
+IR-5-E-OEMAL-U-0108,Jamia Millia Islamia,New Delhi,Delhi,49.15,57.41,39.27,72.13,48.49,8.67,2018,32
+IR-4-E-OEML-U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,48.74,61.27,33.34,64.59,58.93,15.48,2018,33
+IR-6-E-OEMALP-U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,48.66,67.99,42.64,47.12,57.87,2.6,2018,34
+IR-7-E-OEMALDC-U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,48.26,70.21,38.92,53.95,36.54,10.79,2018,35
+IR-1-E-E-C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kancheepuram,Tamil Nadu,48.1,69.98,27.18,58.89,52.41,19.35,2018,36
+IR-4-E-OEMA-U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,47.26,56.33,34.48,66.57,62.08,5.04,2018,37
+IR-1-E-E-U-0014,International Institute of Information Technology,Hyderabad,Telangana,46.87,49.08,31.56,77.96,54.24,16.57,2018,38
+IR-1-E-E-C-7252,Manipal Institute of Technology,Manipal,Karnataka,46.66,68.57,18.47,56.93,63.21,28.4,2018,39
+IR-3-E-OEA-C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,46.66,62.34,26.64,59.11,46.6,34.91,2018,39
+IR-2-E-OE-U-0098,Delhi Technological University,New Delhi,Delhi,46.57,54.83,29.75,70.78,48.7,21.65,2018,41
+IR-1-E-E-U-0017,Jawaharlal Nehru Technological University,Hyderabad,Telangana,46.4,72.7,27.91,55.73,43.77,6.89,2018,42
+IR-1-E-E-U-0172,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,46.29,59.2,37.89,60.94,42.36,7.35,2018,43
+IR-3-E-OEM-S-8931,National Institute of Industrial Engineering,Mumbai,Maharashtra,45.91,79.15,2.63,73.55,59.67,6.89,2018,44
+IR-1-E-E-C-41593,College of Engineering,Pune,Maharashtra,45.9,60.44,23.96,66.29,46.51,26.74,2018,45
+IR-5-E-OEMDP-U-0473,SRM Institute of Science and Technology,Chennai,Tamil Nadu,45.51,58.66,31.97,54.06,61.87,13.2,2018,46
+IR-2-E-OE-U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,45.34,52.84,36.28,64.9,43.94,12.41,2018,47
+IR-1-E-E-U-0530,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,44.33,52.93,29.68,64.99,46.75,18.67,2018,48
+IR-2-E-EM-U-0020,Koneru Lakshmaiah Education Foundation University,Vaddeswaram,Andhra Pradesh,44.31,70.42,17.39,60.09,58.32,1.06,2018,49
+IR-1-E-E-U-0263,National Institute of Technology Calicut,Calicut,Kerala,44.3,55.17,26.58,60.6,41.85,34.67,2018,50
+IR-5-E-OEMLD-U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,44.27,58.23,21.63,66.81,63.99,5.51,2018,51
+IR-2-E-OE-U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,43.88,55.37,33.17,58.95,46.61,8.67,2018,52
+IR-1-E-E-C-6581,Pondicherry Engineering College,Puducherry,Pondicherry,43.7,62.07,19.84,65.32,42.72,17.99,2018,53
+IR-1-E-E-U-0395,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,43.4,67.83,18.13,56.92,55.85,6.44,2018,54
+IR-1-E-E-U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,43.34,56.88,23.54,69.57,46.73,6.44,2018,55
+IR-1-E-E-U-0221,International Institute of Information Technology Bangalore,Bengluru,Karnataka,43.2,58.67,15.71,69.25,61.28,9.1,2018,56
+IR-1-E-E-U-0055,National Institute of Technology Silchar,Silchar,Assam,43.09,61.32,26.01,62.32,35.65,8.67,2018,57
+IR-1-E-E-C-1269,R. V. College of Engineering,Bengaluru,Karnataka,42.98,66.43,13.67,63.12,52.94,10.37,2018,58
+IR-6-E-OEMLDP-U-0078,Panjab University,Chandigarh,Chandigarh,42.68,43.7,45.56,53.84,43.14,8.23,2018,59
+IR-1-E-E-C-1331,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,42.25,64.56,13.01,61.42,57.03,9.96,2018,60
+IR-1-E-E-U-0149,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,42.11,52.57,29.06,60.17,45.52,10.37,2018,61
+IR-2-E-OE-C-36969,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,41.59,62.94,14.26,50.86,50.64,32.03,2018,62
+IR-1-E-E-U-0297,Defence Institute of Advanced Technology,Pune,Maharashtra,41.37,70.99,27.72,35.53,43.79,2.6,2018,63
+IR-3-E-OEA-U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,41.17,54.67,22.43,61.63,52.5,4.56,2018,64
+IR-1-E-E-C-24004,AU College of Engineering,Visakhapatnam,Andhra Pradesh,40.88,64.07,6.9,68.03,55.18,4.56,2018,65
+IR-1-E-E-U-0105,Indraprastha Institute of Information Technology Delhi,New Delhi,Delhi,40.69,47.47,24.85,70.0,39.95,9.96,2018,66
+IR-1-E-E-C-1262,B. M. S. College of Engineering,Bengaluru,Karnataka,40.32,64.05,7.95,62.67,51.06,10.79,2018,67
+IR-1-E-E-C-37065,Kongu Engineering College,Perundurai,Tamil Nadu,40.28,59.46,13.12,52.77,45.32,34.2,2018,68
+IR-2-E-OE-U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,39.98,63.33,9.78,57.1,51.51,14.73,2018,69
+IR-2-E-OE-U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,39.88,48.0,21.07,58.39,53.21,21.65,2018,70
+IR-2-E-OE-U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,39.55,48.87,31.55,51.45,50.27,1.06,2018,71
+IR-3-E-OEM-U-0460,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,39.27,53.24,20.03,48.51,55.91,20.02,2018,72
+IR-1-E-E-U-0080,PEC University of Technology,Chandigarh,Chandigarh,39.24,50.81,11.57,66.01,64.18,9.1,2018,73
+IR-1-E-E-U-0374,Dr. B. R. Ambedkar National Institute of Technology,Jalandhar,Punjab,38.65,55.33,18.26,59.32,42.06,5.04,2018,74
+IR-3-E-EMA-C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,38.29,54.94,11.61,60.08,46.18,16.93,2018,75
+IR-2-E-OE-C-36984,Bannari Amman Institute of Technology,Sathyamangalam,Tamil Nadu,37.81,58.36,9.31,53.78,49.52,17.99,2018,76
+IR-2-E-OE-U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,37.73,52.36,28.75,38.77,53.83,2.6,2018,77
+IR-1-E-E-C-1297,Siddaganga Institute of Technology,Tumkur,Karnataka,37.72,64.23,9.26,52.89,48.79,2.09,2018,78
+IR-4-E-OEMA-U-0445,B. S. Abdur Rahman Institute of Science and Technology,Chennai,Tamil Nadu,37.57,63.79,11.75,46.73,44.42,11.2,2018,79
+IR-1-E-E-C-27616,University College of Engineering,Hyderabad,Telangana,37.52,58.19,4.41,68.69,48.43,1.58,2018,80
+IR-1-E-E-U-0092,National Institute of Technology Raipur,Raipur,Chhattisgarh,37.38,53.28,16.68,55.99,50.27,1.58,2018,81
+IR-3-E-OEM-C-36926,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,37.19,57.39,7.31,57.61,49.4,13.2,2018,82
+IR-1-E-E-C-41309,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,37.01,52.34,7.37,59.5,65.63,6.44,2018,83
+IR-2-E-OE-U-0186,Jaypee University of Information Technology,Solan,Himachal Pradesh,37.0,45.26,16.66,53.23,55.7,21.96,2018,84
+IR-2-E-OE-C-24163,Sagi Ramakrishnam Raju Engineering College,Bhimavaram,Andhra Pradesh,36.89,61.09,1.68,58.2,62.1,2.09,2018,85
+IR-5-E-OEMAL-U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,36.89,42.73,26.82,54.91,49.28,1.06,2018,85
+IR-3-E-OEM-U-0733,PES University,Bengaluru,Karnataka,36.86,51.56,12.16,54.62,60.91,7.35,2018,87
+IR-1-E-E-C-42054,Army Institute of Technology,Pune,Maharashtra,36.71,54.67,2.33,64.84,60.38,5.97,2018,88
+IR-1-E-E-C-30045,C. V. Raman College of Engineering,Bhubaneswar,Odisha,36.7,54.87,6.82,60.98,56.29,3.59,2018,89
+IR-1-E-E-U-0516,Indian Institute of Information Technology Allahabad,Allahabad,Uttar Pradesh,36.59,39.58,17.27,67.6,44.05,16.21,2018,90
+IR-1-E-E-U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",Jabalpur,Madhya Pradesh,36.42,41.04,24.86,59.84,43.74,3.09,2018,91
+IR-1-E-E-U-0493,National Institute of Technology Agartala,Agratala,Tripura,36.36,54.42,20.09,46.76,42.46,4.08,2018,92
+IR-1-E-E-C-36975,Government College of Technology,Coimbatore,Tamil Nadu,36.35,50.86,8.46,50.37,55.9,28.93,2018,93
+IR-4-E-OEMA-U-0201,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,36.28,65.02,12.58,47.97,34.12,0.0,2018,94
+IR-1-E-E-C-33641,Veermata Jijabai Technological Institute,Mumbai,Maharashtra,36.24,49.39,11.82,67.69,37.26,5.97,2018,95
+IR-4-E-OEMA-U-0458,Kalasalingam Academy of Research and Higher Education,Srivilliputtur,Tamil Nadu,36.22,59.06,12.3,48.68,47.64,3.09,2018,96
+IR-2-E-EP-C-18154,University College of Engingeering,Kakinada,Andhra Pradesh,36.1,56.04,5.7,61.37,53.06,0.0,2018,97
+IR-2-E-OE-U-0619,National Institute of Technology Meghalaya,Shillong,Meghalaya,36.0,63.62,11.41,48.19,35.93,2.6,2018,98
+IR-1-E-E-C-1371,New Horizon College of Engineering,Bengaluru,Karnataka,35.95,57.0,2.23,62.4,56.96,0.0,2018,99
+IR-1-E-E-C-1352,NITTE Meenakshi Institute of Technology,Bengaluru,Karnataka,35.84,57.24,2.53,57.97,57.19,5.97,2018,100
+IR17-ENGG-1-1-77,Indian Institute of Technology Madras,Chennai,Tamil Nadu,87.96,91.85,92.6,83.78,77.19,81.46,2017,1
+IR17-ENGG-2-18633,Indian Institute of Technology Bombay,Mumbai,Maharashtra,87.87,91.15,94.68,83.64,69.7,84.24,2017,2
+IR17-ENGG-2-18630,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,81.93,76.03,89.23,88.02,74.11,73.43,2017,3
+IR17-ENGG-2-1-79,Indian Institute of Technology Delhi,New Delhi,Delhi,81.08,79.63,89.47,77.45,71.41,77.24,2017,4
+IR17-ENGG-2-18248,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,76.83,84.28,77.28,74.29,61.35,73.59,2017,5
+IR17-ENGG-2-18677,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,73.1,72.3,74.36,88.31,70.95,43.47,2017,6
+IR17-ENGG-2-1-251,Indian Institute of Technology Guwahati,Guwahati,Assam,72.3,89.29,59.98,77.08,80.11,40.95,2017,7
+IR17-ENGG-2-18292,Anna University,Chennai,Tamil Nadu,63.97,63.62,67.63,67.99,59.71,50.21,2017,8
+IR17-ENGG-2-10326,Jadavpur University,Kolkata,West Bengal,62.59,59.42,71.38,74.96,49.76,33.82,2017,9
+IR17-ENGG-2-1-345,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,60.24,82.6,36.21,71.26,73.75,29.72,2017,10
+IR17-ENGG-1-1-370,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,59.44,62.0,46.27,74.38,75.81,45.04,2017,11
+IR17-ENGG-2-1-140,National Institute of Technology Rourkela,Rourkela,Odisha,58.78,64.21,49.22,80.12,68.07,19.23,2017,12
+IR17-ENGG-2-18572,Vellore Institute of Technology,Vellore,Tamil Nadu,58.16,56.49,54.02,64.91,75.56,44.6,2017,13
+IR17-ENGG-2-18261,Institute of Chemical Technology,Mumbai,Maharashtra,57.97,70.35,47.58,74.25,59.54,17.8,2017,14
+IR17-ENGG-2-1-346,Indian Institute of Technology Indore,Indore,Madhya Pradesh,57.7,83.73,32.72,70.72,75.64,10.64,2017,15
+IR17-ENGG-2-18599,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,55.43,66.15,35.05,70.27,59.86,50.32,2017,16
+IR17-ENGG-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur",Howrah,West Bengal,54.42,71.02,40.3,59.43,58.47,32.82,2017,17
+IR17-ENGG-1-18627,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,54.32,79.66,28.87,63.69,76.69,13.5,2017,18
+IR17-ENGG-2-1-344,Indian Institute of Technology Patna,Patna,Bihar,54.02,74.78,27.7,72.78,72.78,14.35,2017,19
+IR17-ENGG-1-10356,Jamia Millia Islamia,New Delhi,Delhi,53.7,60.01,38.73,80.24,73.39,6.92,2017,20
+IR17-ENGG-2-1-340,Indian Institute of Technology Ropar,Rupnagar,Punjab,52.93,78.92,27.63,62.97,76.06,7.68,2017,21
+IR17-ENGG-1-1-493,National Institute of Technology Surathkal,Surathkal,Karnataka,52.87,62.53,32.6,73.71,64.28,31.56,2017,22
+IR17-ENGG-1-18632,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,52.58,57.19,40.14,69.42,67.49,27.52,2017,23
+IR17-ENGG-1-1-2809541361,"College of Engineering, Pune",Pune,Maharashtra,52.14,70.56,24.47,70.09,69.81,26.33,2017,24
+IR17-ENGG-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,51.44,62.38,36.31,67.32,67.13,16.73,2017,25
+IR17-ENGG-2-1-2813959492,Thapar University,Patiala,Punjab,51.35,56.85,41.77,73.33,52.08,18.9,2017,26
+IR17-ENGG-1-1-2811256746,Sri Sivasubrmaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,50.77,74.22,24.88,65.82,61.56,17.17,2017,27
+IR17-ENGG-1-1-249,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,50.6,81.23,14.74,60.24,70.29,27.33,2017,28
+IR17-ENGG-2-18639,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,50.6,78.98,17.99,66.78,74.26,7.24,2017,28
+IR17-ENGG-1-18628,Indian Institute of Technology Gandhinagar,Ahmedabad,Gujarat,50.43,79.73,14.41,59.25,75.94,27.54,2017,30
+IR17-ENGG-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Varanasi,Uttar Pradesh,49.92,61.22,25.36,71.67,59.03,37.11,2017,31
+IR17-ENGG-2-1-2811781771,Birla Institute of Technology,Ranchi,Jharkhand,49.92,65.59,29.36,64.22,72.08,13.8,2017,31
+IR17-ENGG-1-2811179135,PSG College of Technology,Coimbatore,Tamil Nadu,49.49,66.54,23.64,57.05,62.81,47.48,2017,33
+IR17-ENGG-2-18622,National Institute of Technology Warangal,Warangal,Telangana,49.47,66.94,25.44,68.92,65.85,14.01,2017,34
+IR17-ENGG-2-1-596,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,49.2,59.75,31.69,57.93,82.94,18.79,2017,35
+IR17-ENGG-2-1-NEW5,"National Institute of Industrial Engineering, Mumbai",Mumbai,Maharashtra,47.47,80.8,1.25,71.62,77.94,7.54,2017,36
+IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering,Madurai,Tamil Nadu,47.01,66.01,26.76,57.78,59.0,17.18,2017,37
+IR17-ENGG-1-11736,Pondicherry Engineering College,Puducherry,Pondicherry,46.37,66.45,20.44,69.4,61.68,2.54,2017,38
+IR17-ENGG-2-12907,Delhi Technological University,New Delhi,Delhi,46.19,50.95,24.48,72.9,67.16,22.64,2017,39
+IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology,Aligarh,Uttar Pradesh,46.18,71.3,33.57,47.24,48.05,4.57,2017,40
+IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology,Allahabad,Uttar Pradesh,45.68,56.0,30.32,66.14,56.74,8.82,2017,41
+IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology, Nagpur (Deemed University)",Nagpur,Maharashtra,45.52,60.59,21.88,61.04,69.96,15.72,2017,42
+IR17-ENGG-1-1-2816307230,Manipal Institute of Technology,Manipal,Karnataka,45.38,70.66,11.94,59.32,63.31,24.06,2017,43
+IR17-ENGG-2-18613,National Institute of Technology Calicut,Calicut,Kerala,44.5,53.28,21.15,60.77,73.98,26.25,2017,44
+IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,44.35,67.06,13.09,65.46,62.97,9.07,2017,45
+IR17-ENGG-2-18259,AMITY University,Gautam Budh Nagar,Uttar Pradesh,44.16,60.02,29.5,51.14,61.36,9.43,2017,46
+IR17-ENGG-2-1-336,Kalinga Institute of Industrial Technology,Bhubneshwar,Odisha,43.68,52.55,14.08,71.82,66.05,27.39,2017,47
+IR17-ENGG-2-1-668,Sri Venkateswara University,Tirupati,Andhra Pradesh,43.53,54.81,33.56,54.93,55.88,4.42,2017,48
+IR17-ENGG-1-29885,R.V. College of Engineering,Bengaluru,Karnataka,43.42,69.03,12.13,60.62,54.58,14.86,2017,49
+IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology,Surat,Gujarat,43.3,50.43,28.91,61.07,62.28,10.65,2017,50
+IR17-ENGG-1-11716,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,43.29,62.88,14.72,57.41,68.04,17.42,2017,51
+IR17-ENGG-2-1-2812016223,B.M.S. College of Engineering,Bengaluru,Karnataka,42.86,68.76,5.48,62.43,68.13,12.85,2017,52
+IR17-ENGG-1-18612,National Institute of Technology Silchar,Silchar,Assam,42.73,61.17,18.43,59.99,58.3,10.17,2017,53
+IR17-ENGG-2-1-321,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,42.63,51.11,19.82,64.97,81.02,2.63,2017,54
+IR17-ENGG-2-18649,National Institute of Technology Durgapur,Durgapur,West Bengal,42.56,48.09,34.95,50.88,57.93,16.69,2017,55
+IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)",New Delhi,Delhi,42.55,48.55,20.83,70.69,55.41,20.45,2017,56
+IR17-ENGG-1-12121,Kongu Engineering College,Perundurai,Tamil Nadu,42.43,60.47,13.96,60.8,62.39,17.04,2017,57
+IR17-ENGG-2-1-11112,Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology,Chennai,Tamil Nadu,42.31,60.49,23.07,42.07,73.59,14.68,2017,58
+IR17-ENGG-2-18615,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,42.02,55.11,19.99,62.59,67.66,1.95,2017,59
+IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,41.61,52.27,28.6,53.5,58.03,8.53,2017,60
+IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,41.25,51.97,13.74,71.45,65.33,7.2,2017,61
+IR17-ENGG-2-18312,Karunya Institute of Technology and Sciences-Coimbatore,Coimbatore,Tamil Nadu,40.97,54.14,20.06,49.83,77.68,9.66,2017,62
+IR17-ENGG-1-18288,Jawaharlal Nehru Technological University,Hyderabad,Telangana,40.45,54.92,17.44,63.55,55.51,4.82,2017,63
+IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management,District Nagpur,Maharashtra,40.36,64.46,2.11,56.14,70.19,21.36,2017,64
+IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,40.2,68.8,8.51,50.37,60.47,8.9,2017,65
+IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,40.18,59.88,2.45,58.41,72.03,25.99,2017,66
+IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering, NAGPUR",Nagpur,Maharashtra,39.87,52.12,8.9,55.53,69.84,34.72,2017,67
+IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,39.64,58.15,12.72,54.89,66.69,7.28,2017,68
+IR17-ENGG-2-1-424,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur",Jabalpur,Madhya Pradesh,39.46,45.09,20.91,62.1,69.27,3.13,2017,69
+IR17-ENGG-2-18620,"Malaviya National Institute of Technology, Jaipur",Jaipur,Rajasthan,39.38,50.94,25.26,52.53,53.47,6.62,2017,70
+IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,39.38,55.93,7.81,60.31,70.52,11.47,2017,70
+IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology,Tumkur,Karnataka,39.36,64.56,5.41,59.89,59.86,4.0,2017,72
+IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,39.21,54.66,11.5,60.25,60.08,13.05,2017,73
+IR17-ENGG-2-12969,Guru Gobind Singh Indraprastha University,Dwarka,Delhi,39.16,51.63,25.78,53.25,49.44,3.45,2017,74
+IR17-ENGG-1-1-2812988445,International Institute of Information Technology,Hyderabad,Telangana,38.95,40.86,24.99,62.56,51.3,15.51,2017,75
+IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda",Vadodara,Gujarat,38.81,58.28,16.62,52.82,48.97,8.81,2017,76
+IR17-ENGG-1-1-2809338810,Army Institute of Technology,Pune,Maharashtra,38.7,54.85,1.05,67.36,76.35,8.24,2017,77
+IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology, Dindigul",Dindigul,Tamil Nadu,38.27,56.27,7.1,57.06,65.64,12.9,2017,78
+IR17-ENGG-2-18406,Nirma University,Ahmedabad,Gujarat,38.07,54.77,13.56,54.21,56.89,10.38,2017,79
+IR17-ENGG-1-1-2814018067,University College of Engineering,Hyderabad,Telangana,38.06,61.64,2.55,63.13,59.62,2.12,2017,80
+IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College,Bhimavaram,Andhra Pradesh,37.88,58.45,0.83,56.33,71.44,16.85,2017,81
+IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,37.74,58.07,6.31,58.34,59.69,7.88,2017,82
+IR17-ENGG-2-18296,Jaypee University of Information Technology-Solan,Solan,Himachal Pradesh,37.46,49.84,13.87,52.03,76.54,2.91,2017,83
+IR17-ENGG-1-1-2811165868,R.M.K. Engineering College,Kavaraipettai,Tamil Nadu,37.45,60.64,4.51,55.86,61.68,5.67,2017,84
+IR17-ENGG-1-1-556,Punjab Engineering College,Chandigarh,Chandigarh,37.44,51.52,6.65,60.52,62.62,16.34,2017,85
+IR17-ENGG-2-1-541,PES University,Bengaluru,Karnataka,37.31,52.98,8.51,56.54,58.95,16.59,2017,86
+IR17-ENGG-2-18392,National Institute of Technology Manipur,Manipur,Manipur,37.27,62.72,0.68,54.18,70.89,3.19,2017,87
+IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,37.11,57.25,2.82,48.23,70.42,23.89,2017,88
+IR17-ENGG-2-1-57,B.S. Abdur Rahman Institute of Science and Technology,Chennai,Tamil Nadu,36.97,62.6,9.92,42.97,62.83,3.51,2017,89
+IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,36.93,58.85,1.35,57.79,65.58,7.45,2017,90
+IR17-ENGG-2-15188,Saveetha Engineering College,Sriperumbudur,Tamil Nadu,36.88,49.94,4.73,64.45,70.27,5.64,2017,91
+IR17-ENGG-1-26228,C.V. Raman College of Engineering,Bhubneshwar,Odisha,36.82,52.53,5.51,49.95,72.48,21.66,2017,92
+IR17-ENGG-2-10284,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,36.8,49.73,9.47,55.11,62.08,18.11,2017,93
+IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune",Pune,Maharashtra,36.75,62.7,3.4,52.13,63.39,1.46,2017,94
+IR17-ENGG-1-12784,BMS Institute of Technology & Management,Bengaluru,Karnataka,36.67,60.5,5.27,50.66,62.29,5.78,2017,95
+IR17-ENGG-2-12411,Sri Sai Ram Engineering College,Chennai,Tamil Nadu,36.64,54.19,3.84,59.32,68.75,4.86,2017,96
+IR17-ENGG-2-12581,ST. Joseph's College of Engineering,Chennai,Tamil Nadu,36.51,59.47,6.74,49.39,64.92,2.8,2017,97
+IR17-ENGG-2-1-31,Andhra University,Visakhapatnam,Andhra Pradesh,36.42,41.94,15.81,66.86,48.27,9.03,2017,98
+IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology,Tiruchengode,Tamil Nadu,36.4,53.78,14.29,46.44,60.98,5.85,2017,99
+IR17-ENGG-2-1-365,National Institute of Technology Meghalaya,Shillong,Meghalaya,36.21,62.02,4.12,48.34,60.6,6.29,2017,100

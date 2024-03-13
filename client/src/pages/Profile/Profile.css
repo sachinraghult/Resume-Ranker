@@ -1,0 +1,6 @@
+.profileContainer {
+  /* background: url("https://i2.cdn.turner.com/cnnnext/dam/assets/150820163747-profile-background-stock---no-photo-full-169.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}

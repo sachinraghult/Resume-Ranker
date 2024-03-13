@@ -1,0 +1,186 @@
+.reportContainer {
+  background-color: #c3c4ba;
+  min-height: 100vh;
+  position: relative;
+}
+
+.reportSubContainer {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.reportFilterContainer {
+  margin-top: 25px;
+  margin-left: -8.5%;
+  width: 75%;
+}
+
+.filterAlignContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.filterButtonContainer1 {
+  margin-left: 300px;
+}
+
+.filterButtonContainer2 {
+  margin-left: 25px;
+}
+
+.filterButtonContainer1a {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.filterButtonContainer2a {
+  margin-top: 10px;
+  margin-left: 25px;
+}
+
+.advancedReportFilter {
+  margin-top: 40px;
+}
+
+/* Search filter styling */
+.container {
+  width: 1230px;
+}
+
+.advanced {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.btn-secondary,
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary:hover,
+.btn-secondary::selection,
+.btn-secondary:checked {
+  color: black;
+  height: 50px;
+  width: 500px;
+  margin-left: -15px;
+  background-color: #d2f3f6 !important;
+  border-color: #8fd9df !important;
+  box-shadow: none;
+}
+
+.btn-check:active + .btn-secondary:focus,
+.btn-check:checked + .btn-secondary:focus,
+.btn-secondary.active:focus,
+.btn-secondary:active:focus,
+.show > .btn-secondary.dropdown-toggle:focus {
+  box-shadow: none;
+  color: black;
+}
+
+.dropdown,
+.dropdown-toggle,
+.dropdownMenuButton,
+.dropdown-header,
+.dropdown-menu,
+.dropdown-item {
+  width: 500px;
+}
+
+.advanced {
+  color: #00838f !important;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border: 1px solid #00838f;
+}
+
+/* Time filter styling */
+
+.advanceDateLabel {
+  display: flex;
+  margin-top: 20px;
+}
+
+.advanceDateInput {
+  display: flex;
+}
+
+.labelDate1 {
+  height: 40px;
+  width: 200px;
+}
+.labelDate2 {
+  height: 40px;
+  width: 200px;
+  margin-left: 100px;
+}
+
+.inputDate1 {
+  height: 40px;
+  width: 200px;
+  padding: 5px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+.inputDate2 {
+  height: 40px;
+  width: 200px;
+  padding: 5px;
+  margin-left: 100px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+
+/* Apply button and download report button styling */
+
+.productAddButton1 {
+  width: 120px;
+  height: 50px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.productAddButton2 {
+  width: 170px;
+  height: 50px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.productAddButton1process {
+  width: 120px;
+  height: 50px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(0, 128, 128, 0.5);
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.productAddButton2process {
+  width: 170px;
+  height: 50px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(0, 128, 128, 0.5);
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 10px;
+}

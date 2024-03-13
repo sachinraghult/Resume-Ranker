@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="jobcard"
+>
+  <div
+    className="jobcardheader"
+  >
+    <div>
+      <img
+        alt="job poster"
+        className="cardImg"
+        src="http://localhost/Hiring/one.jpg"
+      />
+    </div>
+    <div
+      className="deadline"
+    >
+      <div
+        style={
+          Object {
+            "fontSize": "14px",
+          }
+        }
+      >
+        <b>
+          Deadline
+        </b>
+      </div>
+      <div>
+        <time
+          className="dateAsCalendar positionPixels"
+        >
+          <span
+            className="weekday"
+          />
+          <span
+            className="day"
+          />
+          <span
+            className="month"
+          />
+          <span
+            className="year"
+          />
+        </time>
+      </div>
+    </div>
+  </div>
+  <div
+    className="jobdetailbuttons"
+  />
+  <div
+    className="jobcardtitle"
+  />
+  <div
+    className="jobcardsubtitle"
+  />
+  <div
+    className="jobdetailbuttons"
+  />
+  <div
+    className="jobcardbuttons"
+  >
+    <button
+      className="searchbuttons cardbuttons"
+      data-testid="handleApply"
+      onClick={[Function]}
+    />
+    <button
+      className="searchbuttons cardbuttonsmsg"
+      onClick={[Function]}
+    >
+      Contact
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,36 @@
+.vscode/
+.cache/**
+**/*.log
+
+# node
+**/node_modules/
+**/.env
+**/coverage
+
+# python
+**/*.pth
+**/__pycache__/
+**/venv/
+**/*.bin
+ranker/weights
+
+**/*.zip
+**/SPACY3_NER/
+
+# .DS_Store
+.DS_Store
+
+# sample
+**/sample
+
+# resumes
+**/examples/resumes
+
+# tokenizers
+**/tokenizers
+
+# png
+topology.png
+
+# secrets
+ranking-algorithm-389c138ee6ee.json

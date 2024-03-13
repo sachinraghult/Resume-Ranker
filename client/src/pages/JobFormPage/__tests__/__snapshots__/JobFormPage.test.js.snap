@@ -1,0 +1,578 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="jobFormPageContainer"
+>
+  <div>
+    <div
+      className="skin-blue-black"
+    >
+      <div
+        className="wrapper"
+      >
+        <header
+          className="main-header col-lg-12"
+        >
+          <span
+            className="logo-mid first border"
+            style={
+              Object {
+                "backgroundColor": "white",
+                "paddingLeft": "2px",
+              }
+            }
+          />
+          <div
+            className="fa fa-bars"
+            id="menu_bar"
+            onClick={[Function]}
+          />
+          <div
+            className="user-profile"
+            onClick={[Function]}
+          >
+            <span>
+              user
+            </span>
+            <div
+              className="mini-user fa fa-user-circle"
+            />
+          </div>
+        </header>
+        <div
+          className="leftMenu openMenu"
+        >
+          <ul
+            className="leftMenuList"
+          />
+        </div>
+        <div
+          className="content-wrapper content-wrapper-mid"
+        />
+        <div
+          className="profile-hover"
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          <div
+            className="user-profile-icon fa fa-user-circle"
+          />
+          <div
+            className="user-profile our-profile"
+          >
+            <span>
+              user
+            </span>
+            <h1
+              onClick={[Function]}
+            >
+              LogOut
+            </h1>
+          </div>
+        </div>
+        <div
+          className="popup-overlay"
+        />
+        <div
+          className="popup-overlay-bell"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="formPageContainer"
+  >
+    <div
+      className="formContainer"
+    >
+      <div>
+        <h1
+          id="title"
+        >
+          Application Form
+        </h1>
+        <div
+          id="formcontainer"
+        >
+          <p
+            id="desc"
+          >
+            Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.
+          </p>
+          <form
+            onSubmit={[Function]}
+          >
+            <div
+              className="rowTab"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="email"
+                  id="email-label"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Job Title
+                   
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <input
+                  className="inputfield"
+                  id="email"
+                  name="email"
+                  onChange={[Function]}
+                  placeholder="Job Title"
+                  required={true}
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              className="rowTab"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="comments"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Job desc
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <textarea
+                  className="text2Inputfield"
+                  id="email"
+                  name="email"
+                  onChange={[Function]}
+                  placeholder="Job Description"
+                />
+              </div>
+            </div>
+            <div
+              className="rowTab"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="comments"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Experience
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <textarea
+                  className="textInputfield"
+                  id="email"
+                  name="email"
+                  onChange={[Function]}
+                  placeholder="Qualified Experience"
+                />
+              </div>
+            </div>
+            <div
+              className="rowTabx"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="comments"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Keywords
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <form
+                  autoComplete="off"
+                  className="skillform"
+                >
+                  <div
+                    className="form-field"
+                  >
+                    <label
+                      htmlFor="service"
+                    >
+                      Keyword(s)
+                    </label>
+                    <div
+                      className="services"
+                    >
+                      <div
+                        className="first-division"
+                      >
+                        <div
+                          className="f"
+                        >
+                          <input
+                            className="inputx"
+                            id="service"
+                            name="keyword"
+                            onChange={[Function]}
+                            placeholder="keyword"
+                            required={true}
+                            type="text"
+                            value=""
+                          />
+                        </div>
+                        <button
+                          className="add-btn"
+                          data-testid="handleKeywordAdd"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <span>
+                            Add a Keyword
+                          </span>
+                        </button>
+                      </div>
+                      <div
+                        className="second-division"
+                      />
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div
+              className="rowTabx"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="comments"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Skills
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <form
+                  autoComplete="off"
+                  className="skillform"
+                >
+                  <div
+                    className="form-field"
+                  >
+                    <label
+                      htmlFor="service"
+                    >
+                      Skill(s)
+                    </label>
+                    <label
+                      className="secondlabel"
+                    >
+                      Priority(s)
+                    </label>
+                    <div
+                      className="services"
+                    >
+                      <div
+                        className="first-division"
+                      >
+                        <div
+                          className="f"
+                        >
+                          <input
+                            className="inputx"
+                            id="service"
+                            name="skill"
+                            onChange={[Function]}
+                            placeholder="Skill"
+                            required={true}
+                            type="text"
+                            value=""
+                          />
+                          <div>
+                            <input
+                              className="inputy"
+                              id="score"
+                              max="100"
+                              min="0"
+                              name="value"
+                              onChange={[Function]}
+                              placeholder="0 - 100"
+                              required={true}
+                              type="number"
+                              value={null}
+                            />
+                          </div>
+                        </div>
+                        <button
+                          className="add-btn"
+                          data-testid="handleServiceAdd"
+                          onClick={[Function]}
+                          type="button"
+                        >
+                          <span>
+                            Add a Skill
+                          </span>
+                        </button>
+                      </div>
+                      <div
+                        className="second-division"
+                      />
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div
+              className="rowTab"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="tags"
+                >
+                  Select Tags
+                </label>
+              </div>
+              <div
+                className="checkBoxDiv"
+              >
+                <label
+                  className="checkBoxContainer"
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "",
+                      }
+                    }
+                  >
+                    Full Time
+                  </span>
+                  <input
+                    disabled={false}
+                    onChange={[Function]}
+                    type="checkbox"
+                    value="Full Time"
+                  />
+                  <span
+                    className="checkmark"
+                  />
+                </label>
+                <label
+                  className="checkBoxContainer"
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "",
+                      }
+                    }
+                  >
+                    Part Time
+                  </span>
+                  <input
+                    disabled={false}
+                    onChange={[Function]}
+                    type="checkbox"
+                    value="Part Time"
+                  />
+                  <span
+                    className="checkmark"
+                  />
+                </label>
+                <label
+                  className="checkBoxContainer"
+                >
+                  Internship
+                  <input
+                    onChange={[Function]}
+                    type="checkbox"
+                    value="Internship"
+                  />
+                  <span
+                    className="checkmark"
+                  />
+                </label>
+                <label
+                  className="checkBoxContainer"
+                >
+                  Distant
+                  <input
+                    onChange={[Function]}
+                    type="checkbox"
+                    value="Distant"
+                  />
+                  <span
+                    className="checkmark"
+                  />
+                </label>
+                <label
+                  className="checkBoxContainer"
+                >
+                  Flex work
+                  <input
+                    onChange={[Function]}
+                    type="checkbox"
+                    value="Flex work"
+                  />
+                  <span
+                    className="checkmark"
+                  />
+                </label>
+              </div>
+            </div>
+            <div
+              className="rowTab"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="date"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Deadline
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <input
+                  className="dropdown"
+                  id="date"
+                  min="2022-07-27"
+                  onChange={[Function]}
+                  type="date"
+                />
+              </div>
+            </div>
+            <div
+              className="rowTab"
+            >
+              <div
+                className="labels"
+              >
+                <label
+                  htmlFor="email"
+                  id="email-label"
+                >
+                  <i
+                    style={
+                      Object {
+                        "color": "red",
+                      }
+                    }
+                  >
+                    * 
+                  </i>
+                  Contact Email
+                   
+                </label>
+              </div>
+              <div
+                className="rightTab"
+              >
+                <input
+                  className="inputfield"
+                  id="email"
+                  name="email"
+                  onChange={[Function]}
+                  placeholder="Contact Email"
+                  required={true}
+                  type="email"
+                />
+              </div>
+            </div>
+            <br />
+            <div
+              id="wrapper"
+            >
+              <button
+                data-testid="handleSubmit"
+                disabled={false}
+                id="submit"
+                style={
+                  Object {
+                    "cursor": "pointer",
+                    "opacity": "1",
+                  }
+                }
+                type="submit"
+              >
+                Submit
+              </button>
+               
+            </div>
+            <br />
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

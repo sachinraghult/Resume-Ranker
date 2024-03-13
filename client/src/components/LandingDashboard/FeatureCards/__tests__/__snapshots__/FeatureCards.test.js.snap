@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="featured"
+>
+  <div
+    className="featuredItem"
+  >
+    <span
+      className="featuredTitle"
+    >
+      Applications received 
+    </span>
+    <div
+      className="featuredMoneyContainer"
+    >
+      <span
+        className="featuredMoney"
+      />
+    </div>
+  </div>
+  <div
+    className="featuredItem"
+  >
+    <span
+      className="featuredTitle"
+    >
+      Active Job Posts
+    </span>
+    <div
+      className="featuredMoneyContainer"
+    >
+      <span
+        className="featuredMoney"
+      />
+    </div>
+  </div>
+  <div
+    className="featuredItem"
+  >
+    <span
+      className="featuredTitle"
+    >
+      Resumes received
+    </span>
+    <div
+      className="featuredMoneyContainer"
+    >
+      <span
+        className="featuredMoney"
+      >
+         📈
+      </span>
+      <span
+        className="featuredMoneyRate"
+      />
+    </div>
+    <span
+      className="featuredSub"
+    >
+      Compared to last month
+    </span>
+  </div>
+  <div
+    className="featuredItem"
+    style={
+      Object {
+        "marginRight": "4%",
+      }
+    }
+  >
+    <span
+      className="featuredTitle"
+    >
+      Average Resumes
+    </span>
+    <div
+      className="featuredMoneyContainer"
+    >
+      <span
+        className="featuredMoney"
+      >
+         🗓️
+      </span>
+      <span
+        className="featuredMoneyRate"
+      />
+    </div>
+    <span
+      className="featuredSub"
+    >
+      For a year
+    </span>
+  </div>
+</div>
+`;

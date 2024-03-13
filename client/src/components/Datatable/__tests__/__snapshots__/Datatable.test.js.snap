@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Array [
+  <div
+    className="datatable"
+  >
+    <div
+      aria-colcount={5}
+      aria-multiselectable={false}
+      aria-rowcount={0}
+      className="datagrid memo-root-3 MuiDataGrid-root MuiDataGrid-root--densityStandard css-r11z79-MuiDataGrid-root"
+      role="grid"
+    >
+      <div
+        className="MuiDataGrid-main css-204u17-MuiDataGrid-main"
+      >
+        <div
+          className="MuiDataGrid-overlay css-18rq0oa-MuiDataGrid-overlay"
+          error={[TypeError: Cannot set property 'scrollLeft' of null]}
+        >
+          An error occurred.
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    style={
+      Object {
+        "width": "100%",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row-reverse",
+          "justifyContent": "flex-end",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "marginBottom": "22px",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+              "textAlign": "left",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "boxSizing": "border-box",
+                "color": "#777",
+                "fontSize": ".8rem",
+                "lineHeight": "3rem",
+                "padding": "0 0.2rem",
+                "textTransform": "uppercase",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "column-reverse",
+            "flexGrow": 0,
+          }
+        }
+      >
+        <div>
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "textAlign": "center",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "boxSizing": "border-box",
+                  "flexBasis": "3rem",
+                  "flexGrow": "initial",
+                  "flexShrink": 1,
+                  "fontSize": ".8rem",
+                  "overflow": "hidden",
+                  "padding": "0.2rem 0",
+                  "width": "3rem",
+                }
+              }
+            >
+              Skill
+            </div>
+            <div
+              style={
+                Object {
+                  "boxSizing": "border-box",
+                  "flexBasis": "3rem",
+                  "flexGrow": "initial",
+                  "flexShrink": 1,
+                  "fontSize": ".8rem",
+                  "overflow": "hidden",
+                  "padding": "0.2rem 0",
+                  "width": "3rem",
+                }
+              }
+            >
+              Exp
+            </div>
+            <div
+              style={
+                Object {
+                  "boxSizing": "border-box",
+                  "flexBasis": "3rem",
+                  "flexGrow": "initial",
+                  "flexShrink": 1,
+                  "fontSize": ".8rem",
+                  "overflow": "hidden",
+                  "padding": "0.2rem 0",
+                  "width": "3rem",
+                }
+              }
+            >
+              Org
+            </div>
+            <div
+              style={
+                Object {
+                  "boxSizing": "border-box",
+                  "flexBasis": "3rem",
+                  "flexGrow": "initial",
+                  "flexShrink": 1,
+                  "fontSize": ".8rem",
+                  "overflow": "hidden",
+                  "padding": "0.2rem 0",
+                  "width": "3rem",
+                }
+              }
+            >
+              Job
+            </div>
+            <div
+              style={
+                Object {
+                  "boxSizing": "border-box",
+                  "flexBasis": "3rem",
+                  "flexGrow": "initial",
+                  "flexShrink": 1,
+                  "fontSize": ".8rem",
+                  "overflow": "hidden",
+                  "padding": "0.2rem 0",
+                  "width": "3rem",
+                }
+              }
+            >
+              Key
+            </div>
+            <div
+              style={
+                Object {
+                  "boxSizing": "border-box",
+                  "flexBasis": "3rem",
+                  "flexGrow": "initial",
+                  "flexShrink": 1,
+                  "fontSize": ".8rem",
+                  "overflow": "hidden",
+                  "padding": "0.2rem 0",
+                  "width": "3rem",
+                }
+              }
+            >
+              Inst
+            </div>
+          </div>
+        </div>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexGrow": 0,
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "initial",
+              }
+            }
+          >
+            <div
+              onClick={[Function]}
+              style={
+                Object {
+                  "background": "rgb(0, 153, 255, NaN)",
+                  "border": "1px solid #fff",
+                  "borderRadius": "4px",
+                  "borderWidth": "1px 1px 0 0",
+                  "boxSizing": "border-box",
+                  "color": "rgb(0, 0, 0)",
+                  "cursor": "initial",
+                  "flexBasis": "3rem",
+                  "flexGrow": 0,
+                  "flexShrink": 0,
+                  "fontSize": ".8rem",
+                  "height": "3rem",
+                  "lineHeight": "3rem",
+                  "marginTop": "5px",
+                  "overflow": "hidden",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <div
+                title="Pos(0, 0) = 0"
+              >
+                0
+              </div>
+            </div>
+            <div
+              onClick={[Function]}
+              style={
+                Object {
+                  "background": "rgb(0, 153, 255, NaN)",
+                  "border": "1px solid #fff",
+                  "borderRadius": "4px",
+                  "borderWidth": "1px 1px 0 0",
+                  "boxSizing": "border-box",
+                  "color": "rgb(0, 0, 0)",
+                  "cursor": "initial",
+                  "flexBasis": "3rem",
+                  "flexGrow": 0,
+                  "flexShrink": 0,
+                  "fontSize": ".8rem",
+                  "height": "3rem",
+                  "lineHeight": "3rem",
+                  "marginTop": "5px",
+                  "overflow": "hidden",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <div
+                title="Pos(0, 1) = 0"
+              >
+                0
+              </div>
+            </div>
+            <div
+              onClick={[Function]}
+              style={
+                Object {
+                  "background": "rgb(0, 153, 255, NaN)",
+                  "border": "1px solid #fff",
+                  "borderRadius": "4px",
+                  "borderWidth": "1px 1px 0 0",
+                  "boxSizing": "border-box",
+                  "color": "rgb(0, 0, 0)",
+                  "cursor": "initial",
+                  "flexBasis": "3rem",
+                  "flexGrow": 0,
+                  "flexShrink": 0,
+                  "fontSize": ".8rem",
+                  "height": "3rem",
+                  "lineHeight": "3rem",
+                  "marginTop": "5px",
+                  "overflow": "hidden",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <div
+                title="Pos(0, 2) = 0"
+              >
+                0
+              </div>
+            </div>
+            <div
+              onClick={[Function]}
+              style={
+                Object {
+                  "background": "rgb(0, 153, 255, NaN)",
+                  "border": "1px solid #fff",
+                  "borderRadius": "4px",
+                  "borderWidth": "1px 1px 0 0",
+                  "boxSizing": "border-box",
+                  "color": "rgb(0, 0, 0)",
+                  "cursor": "initial",
+                  "flexBasis": "3rem",
+                  "flexGrow": 0,
+                  "flexShrink": 0,
+                  "fontSize": ".8rem",
+                  "height": "3rem",
+                  "lineHeight": "3rem",
+                  "marginTop": "5px",
+                  "overflow": "hidden",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <div
+                title="Pos(0, 3) = 0"
+              >
+                0
+              </div>
+            </div>
+            <div
+              onClick={[Function]}
+              style={
+                Object {
+                  "background": "rgb(0, 153, 255, NaN)",
+                  "border": "1px solid #fff",
+                  "borderRadius": "4px",
+                  "borderWidth": "1px 1px 0 0",
+                  "boxSizing": "border-box",
+                  "color": "rgb(0, 0, 0)",
+                  "cursor": "initial",
+                  "flexBasis": "3rem",
+                  "flexGrow": 0,
+                  "flexShrink": 0,
+                  "fontSize": ".8rem",
+                  "height": "3rem",
+                  "lineHeight": "3rem",
+                  "marginTop": "5px",
+                  "overflow": "hidden",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <div
+                title="Pos(0, 4) = 0"
+              >
+                0
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

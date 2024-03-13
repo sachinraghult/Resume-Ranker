@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="loginWrapper"
+>
+  <div
+    className="loginLeft"
+  >
+    <h3
+      className="loginLogo"
+    >
+      Job Finder
+    </h3>
+    <span
+      className="loginDesc"
+    >
+      Enter your details...
+    </span>
+  </div>
+  <div
+    className="welcomeRight"
+  >
+    <button
+      data-testid="handleSearcher"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4B5D67",
+        }
+      }
+    >
+      Searcher
+    </button>
+    <button
+      data-testid="handleRecruiter"
+      onClick={[Function]}
+    >
+      Recruiter
+    </button>
+  </div>
+</div>
+`;

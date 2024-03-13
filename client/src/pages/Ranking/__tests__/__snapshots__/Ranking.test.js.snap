@@ -1,0 +1,797 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="rankingContainer"
+>
+  <div>
+    <div
+      className="skin-blue-black"
+    >
+      <div
+        className="wrapper"
+      >
+        <header
+          className="main-header col-lg-12"
+        >
+          <span
+            className="logo-mid first border"
+            style={
+              Object {
+                "backgroundColor": "white",
+                "paddingLeft": "2px",
+              }
+            }
+          />
+          <div
+            className="fa fa-bars"
+            id="menu_bar"
+            onClick={[Function]}
+          />
+          <div
+            className="user-profile"
+            onClick={[Function]}
+          >
+            <span>
+              user
+            </span>
+            <div
+              className="mini-user fa fa-user-circle"
+            />
+          </div>
+        </header>
+        <div
+          className="leftMenu openMenu"
+        >
+          <ul
+            className="leftMenuList"
+          />
+        </div>
+        <div
+          className="content-wrapper content-wrapper-mid"
+        />
+        <div
+          className="profile-hover"
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          <div
+            className="user-profile-icon fa fa-user-circle"
+          />
+          <div
+            className="user-profile our-profile"
+          >
+            <span>
+              user
+            </span>
+            <h1
+              onClick={[Function]}
+            >
+              LogOut
+            </h1>
+          </div>
+        </div>
+        <div
+          className="popup-overlay"
+        />
+        <div
+          className="popup-overlay-bell"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="rankingSubContainer"
+  >
+    <h1>
+      Ranking Resumes
+    </h1>
+    <div
+      className="searchFilterContainer"
+    >
+      <div
+        class="searchFilterSubContainer"
+      >
+        <h5>
+          An easier way to search and sort
+        </h5>
+        <div
+          class="row g-3 mt-2"
+        >
+          <div
+            class="col-md-3"
+          >
+            <div
+              class="dropdown"
+            >
+              <button
+                aria-expanded="false"
+                class="btn1 btn-secondary1 dropdown-toggle1"
+                data-toggle="dropdown"
+                id="dropdownMenuButton1"
+                type="button"
+              >
+                Select Category
+              </button>
+              <ul
+                aria-labelledby="dropdownMenuButton1"
+                class="dropdown-menu"
+              >
+                <li
+                  onClick={[Function]}
+                >
+                  <a
+                    class="dropdown-item"
+                    href="#"
+                  >
+                    None
+                  </a>
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  <a
+                    class="dropdown-item"
+                    href="#"
+                  >
+                    Organisation
+                  </a>
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  <a
+                    class="dropdown-item"
+                    href="#"
+                  >
+                    Instituition
+                  </a>
+                </li>
+                <li
+                  onClick={[Function]}
+                >
+                  <a
+                    class="dropdown-item"
+                    href="#"
+                  >
+                    Skills
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <div
+              className="asyncContainer css-b62m3t-container"
+              onKeyDown={[Function]}
+            >
+              <span
+                className="css-1f43avz-a11yText-A11yText"
+                id="react-select-4-live-region"
+              />
+              <span
+                aria-atomic="false"
+                aria-live="polite"
+                aria-relevant="additions text"
+                className="css-1f43avz-a11yText-A11yText"
+              />
+              <div
+                className=" css-rrouo-control"
+                onMouseDown={[Function]}
+                onTouchEnd={[Function]}
+              >
+                <div
+                  className=" css-319lph-ValueContainer"
+                >
+                  <div
+                    className=" css-14el2xx-placeholder"
+                    id="react-select-4-placeholder"
+                  >
+                    Search here...
+                  </div>
+                  <div
+                    className=" css-6j8wv5-Input"
+                    data-value=""
+                  >
+                    <input
+                      aria-autocomplete="list"
+                      aria-describedby="react-select-4-placeholder"
+                      aria-expanded={false}
+                      aria-haspopup={true}
+                      autoCapitalize="none"
+                      autoComplete="off"
+                      autoCorrect="off"
+                      className=""
+                      disabled={false}
+                      id="react-select-4-input"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      role="combobox"
+                      spellCheck="false"
+                      style={
+                        Object {
+                          "background": 0,
+                          "border": 0,
+                          "color": "inherit",
+                          "font": "inherit",
+                          "gridArea": "1 / 2",
+                          "label": "input",
+                          "margin": 0,
+                          "minWidth": "2px",
+                          "opacity": 1,
+                          "outline": 0,
+                          "padding": 0,
+                          "width": "100%",
+                        }
+                      }
+                      tabIndex={0}
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+                <div
+                  className=" css-1hb7zxy-IndicatorsContainer"
+                >
+                  <span
+                    className=" css-1okebmr-indicatorSeparator"
+                  />
+                  <div
+                    aria-hidden="true"
+                    className=" css-tlfecz-indicatorContainer"
+                    onMouseDown={[Function]}
+                    onTouchEnd={[Function]}
+                  >
+                    <svg
+                      aria-hidden="true"
+                      className="css-tj5bde-Svg"
+                      focusable="false"
+                      height={20}
+                      viewBox="0 0 20 20"
+                      width={20}
+                    >
+                      <path
+                        d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br />
+        <div
+          class="mt-3"
+        >
+          <a
+            aria-controls="collapseExample"
+            aria-expanded="false"
+            class="advanced"
+            data-toggle="collapse"
+            href="#collapseExample"
+            role="button"
+          >
+            Advance Ranking With Filters 
+            <i
+              class="fa fa-angle-down"
+            />
+          </a>
+          <div
+            class="collapse"
+            id="collapseExample"
+          >
+            <div
+              class="card card-body"
+            >
+              <div
+                style={
+                  Object {
+                    "display": "flex",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <div>
+                  <div
+                    className="MuiFormGroup-root css-dmmspl-MuiFormGroup-root"
+                  >
+                    <h5>
+                      Rank By 🎯
+                    </h5>
+                    <div>
+                      <div
+                        style={
+                          Object {
+                            "display": "flex",
+                            "justifyContent": "space-between",
+                          }
+                        }
+                      >
+                        <label
+                          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                        >
+                          <span
+                            className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onContextMenu={[Function]}
+                            onDragLeave={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchMove={[Function]}
+                            onTouchStart={[Function]}
+                            tabIndex={null}
+                          >
+                            <input
+                              checked={false}
+                              className="PrivateSwitchBase-input css-1m9pwf3"
+                              data-indeterminate={false}
+                              onChange={[Function]}
+                              type="checkbox"
+                            />
+                            <svg
+                              aria-hidden={true}
+                              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="CheckBoxOutlineBlankIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                            <span
+                              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </span>
+                          <span
+                            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                          >
+                            Experience
+                          </span>
+                        </label>
+                        <label
+                          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                          style={
+                            Object {
+                              "marginLeft": "100px",
+                            }
+                          }
+                        >
+                          <span
+                            className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onContextMenu={[Function]}
+                            onDragLeave={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchMove={[Function]}
+                            onTouchStart={[Function]}
+                            tabIndex={null}
+                          >
+                            <input
+                              checked={false}
+                              className="PrivateSwitchBase-input css-1m9pwf3"
+                              data-indeterminate={false}
+                              onChange={[Function]}
+                              type="checkbox"
+                            />
+                            <svg
+                              aria-hidden={true}
+                              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="CheckBoxOutlineBlankIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                            <span
+                              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </span>
+                          <span
+                            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                          >
+                            Job switches
+                          </span>
+                        </label>
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "display": "flex",
+                            "justifyContent": "space-between",
+                          }
+                        }
+                      >
+                        <label
+                          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                        >
+                          <span
+                            className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onContextMenu={[Function]}
+                            onDragLeave={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchMove={[Function]}
+                            onTouchStart={[Function]}
+                            tabIndex={null}
+                          >
+                            <input
+                              checked={false}
+                              className="PrivateSwitchBase-input css-1m9pwf3"
+                              data-indeterminate={false}
+                              onChange={[Function]}
+                              type="checkbox"
+                            />
+                            <svg
+                              aria-hidden={true}
+                              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="CheckBoxOutlineBlankIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                            <span
+                              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </span>
+                          <span
+                            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                          >
+                            Organisation
+                          </span>
+                        </label>
+                        <label
+                          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                          style={
+                            Object {
+                              "marginLeft": "100px",
+                            }
+                          }
+                        >
+                          <span
+                            className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onContextMenu={[Function]}
+                            onDragLeave={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchMove={[Function]}
+                            onTouchStart={[Function]}
+                            tabIndex={null}
+                          >
+                            <input
+                              checked={false}
+                              className="PrivateSwitchBase-input css-1m9pwf3"
+                              data-indeterminate={false}
+                              onChange={[Function]}
+                              type="checkbox"
+                            />
+                            <svg
+                              aria-hidden={true}
+                              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="CheckBoxOutlineBlankIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                            <span
+                              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </span>
+                          <span
+                            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                          >
+                            Skill Sets       
+                          </span>
+                        </label>
+                      </div>
+                      <div
+                        style={
+                          Object {
+                            "display": "flex",
+                            "justifyContent": "space-between",
+                          }
+                        }
+                      >
+                        <label
+                          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                        >
+                          <span
+                            className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onContextMenu={[Function]}
+                            onDragLeave={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchMove={[Function]}
+                            onTouchStart={[Function]}
+                            tabIndex={null}
+                          >
+                            <input
+                              checked={false}
+                              className="PrivateSwitchBase-input css-1m9pwf3"
+                              data-indeterminate={false}
+                              onChange={[Function]}
+                              type="checkbox"
+                            />
+                            <svg
+                              aria-hidden={true}
+                              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="CheckBoxOutlineBlankIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                            <span
+                              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </span>
+                          <span
+                            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                          >
+                            Keywords
+                          </span>
+                        </label>
+                        <label
+                          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                          style={
+                            Object {
+                              "marginLeft": "100px",
+                            }
+                          }
+                        >
+                          <span
+                            className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onContextMenu={[Function]}
+                            onDragLeave={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchMove={[Function]}
+                            onTouchStart={[Function]}
+                            tabIndex={null}
+                          >
+                            <input
+                              checked={false}
+                              className="PrivateSwitchBase-input css-1m9pwf3"
+                              data-indeterminate={false}
+                              onChange={[Function]}
+                              type="checkbox"
+                            />
+                            <svg
+                              aria-hidden={true}
+                              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                              data-testid="CheckBoxOutlineBlankIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                              />
+                            </svg>
+                            <span
+                              className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                            />
+                          </span>
+                          <span
+                            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                          >
+                            Instituition    
+                          </span>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "marginRight": "50px",
+                    }
+                  }
+                >
+                  <h5>
+                    Filter By 🔍
+                  </h5>
+                  <div
+                    style={
+                      Object {
+                        "display": "flex",
+                        "justifyContent": "space-between",
+                      }
+                    }
+                  >
+                    <label
+                      className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                    >
+                      <span
+                        className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onContextMenu={[Function]}
+                        onDragLeave={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchMove={[Function]}
+                        onTouchStart={[Function]}
+                        tabIndex={null}
+                      >
+                        <input
+                          checked={false}
+                          className="PrivateSwitchBase-input css-1m9pwf3"
+                          data-indeterminate={false}
+                          onChange={[Function]}
+                          type="checkbox"
+                        />
+                        <svg
+                          aria-hidden={true}
+                          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="CheckBoxOutlineBlankIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                          />
+                        </svg>
+                        <span
+                          className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                      >
+                        From Searcher
+                      </span>
+                    </label>
+                    <label
+                      className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+                      style={
+                        Object {
+                          "marginLeft": "100px",
+                        }
+                      }
+                    >
+                      <span
+                        className="MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root"
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onContextMenu={[Function]}
+                        onDragLeave={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchMove={[Function]}
+                        onTouchStart={[Function]}
+                        tabIndex={null}
+                      >
+                        <input
+                          checked={false}
+                          className="PrivateSwitchBase-input css-1m9pwf3"
+                          data-indeterminate={false}
+                          onChange={[Function]}
+                          type="checkbox"
+                        />
+                        <svg
+                          aria-hidden={true}
+                          className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                          data-testid="CheckBoxOutlineBlankIcon"
+                          focusable="false"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                          />
+                        </svg>
+                        <span
+                          className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </span>
+                      <span
+                        className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ahj2mt-MuiTypography-root"
+                      >
+                        Bulk Upload Resume
+                      </span>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="rankingTableContainer"
+      >
+        <div
+          className="datatable"
+        >
+          <div
+            aria-colcount={5}
+            aria-multiselectable={false}
+            aria-rowcount={0}
+            className="datagrid memo-root-3 MuiDataGrid-root MuiDataGrid-root--densityStandard css-r11z79-MuiDataGrid-root"
+            role="grid"
+          >
+            <div
+              className="MuiDataGrid-main css-204u17-MuiDataGrid-main"
+            >
+              <div
+                className="MuiDataGrid-overlay css-18rq0oa-MuiDataGrid-overlay"
+                error={[TypeError: Cannot set property 'scrollLeft' of null]}
+              >
+                An error occurred.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,8 @@
+.container {
+  position: relative;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-right: 4%;
+  width: 45%;
+  cursor: pointer;
+}

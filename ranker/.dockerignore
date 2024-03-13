@@ -1,0 +1,7 @@
+weights/
+sample/
+Dockerfile
+__pycache__
+*.pyc
+*.pyo
+*.pyd

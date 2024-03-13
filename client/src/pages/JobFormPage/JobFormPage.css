@@ -1,0 +1,25 @@
+.jobFormPageContainer {
+  height: 100%;
+  width: 100%;
+}
+.formPageContainer {
+  display: flex;
+  background-image: url("../../../public/jobformbackground.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.imageContainer {
+  margin-left: 225px;
+  margin-top: 25px;
+}
+.companyImg {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+  border-radius: 5px;
+}
+.formContainer {
+  margin-top: 50px;
+  margin-left: 100px;
+}

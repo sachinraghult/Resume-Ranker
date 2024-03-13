@@ -1,0 +1,64 @@
+version: '3'
+
+services:  
+  rabbit:
+    container_name: ranking_algo_rabbit
+    image: rabbitmq:latest
+    expose:
+      - 5672
+  server:
+    container_name: ranking_algo_server
+    build: ./server
+    env_file: ./server/docker.env
+    restart: unless-stopped
+    expose:
+      - "3000"
+    volumes:
+      - ./server/src:/app/src
+    depends_on:
+      - mongo
+      - rabbit
+      - celery
+  client:
+    container_name: ranking_algo_client
+    build: ./client
+    env_file: ./client/docker.env
+    volumes:
+      - react_build:/app/build
+  celery:
+    container_name: ranking_algo_celery
+    build: ./ranker
+    env_file: ./ranker/docker.env
+    volumes:
+      - ./ranker/weights:/app/weights
+      - nltk_data:/root
+    depends_on:
+      - rabbit
+  nginx:
+    container_name: ranking_algo_nginx
+    image: nginx:mainline-alpine
+    ports:
+      - "1337:80"
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - react_build:/var/www/html
+    depends_on:
+      - server
+      - client
+  mongo:
+    container_name: ranking_algo_mongo
+    image: mongo:5.0
+    ports:
+      - "27017:27017"
+    expose:
+      - "27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=wells
+      - MONGO_INITDB_ROOT_PASSWORD=ccibt9
+      - MONGODB_INITDB_DATABASE=ccibt9
+volumes:
+  react_build:
+  mongo_data:
+  nltk_data:

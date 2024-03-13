@@ -1,0 +1,319 @@
+#title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 30px;
+}
+#description {
+  margin-left: 15px;
+  color: gray;
+  font-size: medium;
+  font-weight: 300;
+}
+#formcontainer {
+  background-color: rgb(250, 250, 250);
+  margin: 0 auto;
+  border-radius: 4px;
+  width: 75%;
+  max-width: 1000px;
+  padding: 10px;
+  padding-top: 20px;
+}
+.rowTab {
+  width: 100%;
+  left: 0;
+  margin-left: 10px;
+}
+.rowTabx {
+  margin-top: 20px;
+  width: 100%;
+  left: 0;
+  margin-left: 10px;
+  display: flex;
+}
+.labels {
+  display: inline-block;
+  text-align: left;
+  width: 40%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+  font-size: larger;
+  font-weight: 500;
+}
+.rightTab {
+  display: inline-block;
+}
+.skillform {
+  margin-left: 30px;
+}
+.App {
+  width: 70vh;
+  margin: 5rem auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-field {
+  margin-top: 0%;
+  flex: 2;
+}
+.output {
+  margin-left: 3rem;
+  flex: 1;
+}
+.form-field label,
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(84, 84, 84);
+}
+.secondlabel {
+  margin-left: 100px;
+}
+
+.inputx {
+  height: 35px;
+  width: 150px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(220, 220, 220);
+}
+.inputy {
+  height: 35px;
+  width: 150px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(220, 220, 220);
+  margin-left: 10px;
+}
+.inputz {
+  height: 35px;
+  width: 150px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(220, 220, 220);
+  margin-left: 10px;
+}
+.inputs1 {
+  height: 35px;
+  width: 150px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid red;
+}
+.inputs2 {
+  height: 35px;
+  width: 150px;
+  padding: 7px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid red;
+  margin-left: 10px;
+}
+
+.inputz:focus {
+  border: 1px solid red;
+}
+input:focus {
+  border: 1px solid rgb(128, 0, 128);
+}
+
+.services {
+  display: flex;
+  justify-content: space-between;
+}
+.first-division {
+  display: flex;
+  flex-direction: column;
+  margin: 0 5px 0.5rem 0;
+  width: 100%;
+}
+.f {
+  display: flex;
+}
+button {
+  background: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: 500;
+  border-radius: 2px;
+  padding: 5px 10px;
+}
+.first-division button {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+  color: rgb(128, 0, 128);
+  border: 1px solid rgb(128, 0, 128);
+}
+
+.second-division button {
+  color: red;
+  border: 1px solid red;
+}
+.textInputfield {
+  height: 120px;
+  width: 400px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+.text2Inputfield {
+  height: 60px;
+  width: 400px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+.inputfield {
+  height: 40px;
+  width: 400px;
+  padding: 5px;
+  margin: 10px;
+  font-size: medium;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+#wrapper {
+  text-align: center;
+}
+#submit {
+  background-color: purple;
+  border-radius: 4px;
+  color: white;
+  font-size: 1em;
+  height: 40px;
+  width: 100px;
+  margin: 10px;
+  margin-left: 5px;
+  border: 0px solid;
+}
+
+#submit:hover {
+  opacity: 0.7;
+}
+
+.dropdown {
+  height: 40px;
+  width: 400px;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 15px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+
+.checkBoxDiv {
+  margin-top: 15px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+/* The checkBoxContainer */
+.checkBoxContainer {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 18px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.checkBoxContainer input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.checkBoxContainer:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.checkBoxContainer input:checked ~ .checkmark {
+  background-color: #2196f3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.checkBoxContainer input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.checkBoxContainer .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+@media screen and (max-width: 833px) {
+  .inputfield {
+    width: 80%;
+  }
+  select {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .labels {
+    width: 100%;
+    text-align: left;
+  }
+  .rightTab {
+    width: 80%;
+    float: left;
+  }
+  .inputfield {
+    width: 100%;
+  }
+  select {
+    width: 100%;
+  }
+}
+
+.subError {
+  color: red;
+  margin-top: 10px;
+  margin-left: 15px;
+  font-weight: 600;
+  font-style: italic;
+}

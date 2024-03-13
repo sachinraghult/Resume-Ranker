@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div>
+    <div
+      className="skin-blue-black"
+    >
+      <div
+        className="wrapper"
+      >
+        <header
+          className="main-header col-lg-12"
+        >
+          <span
+            className="logo-mid first border"
+            style={
+              Object {
+                "backgroundColor": "white",
+                "paddingLeft": "2px",
+              }
+            }
+          />
+          <div
+            className="fa fa-bars"
+            id="menu_bar"
+            onClick={[Function]}
+          />
+          <div
+            className="user-profile"
+            onClick={[Function]}
+          >
+            <span>
+              user
+            </span>
+            <div
+              className="mini-user fa fa-user-circle"
+            />
+          </div>
+        </header>
+        <div
+          className="leftMenu openMenu"
+        >
+          <ul
+            className="leftMenuList"
+          />
+        </div>
+        <div
+          className="content-wrapper content-wrapper-mid"
+        />
+        <div
+          className="profile-hover"
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          <div
+            className="user-profile-icon fa fa-user-circle"
+          />
+          <div
+            className="user-profile our-profile"
+          >
+            <span>
+              user
+            </span>
+            <h1
+              onClick={[Function]}
+            >
+              LogOut
+            </h1>
+          </div>
+        </div>
+        <div
+          className="popup-overlay"
+        />
+        <div
+          className="popup-overlay-bell"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="JobApplicationContainer"
+  />
+</div>
+`;

@@ -1,0 +1,19 @@
+.cardContainer {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.tableContainer {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.graphContainer {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,213 @@
+/* .Login {
+    width: 100%;
+    height: 100vh;
+    background-color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Slab', serif;
+} */
+
+/* @media screen and (max-width: 900px) {
+    .Login{
+        width: 100%;
+        height: 100vh;
+        background-color: #ffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Roboto Slab', serif;
+        flex-direction: column;
+        background-color:red;
+    }
+} */
+
+.loginError {
+  color: red;
+  font-size: 1.1rem;
+  font-style: italic;
+  display: flex;
+  align-items: flex-start;
+}
+
+.loginWrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0%;
+  font-family: "Roboto Slab", serif;
+}
+
+@media screen and (max-width: 900px) {
+  .loginWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: blue;  */
+  }
+}
+
+.loginLeft {
+  /* background-color: aqua;  */
+  display: flex;
+  padding-top: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 0px;
+  height: 100vh;
+  background-image: url("../../../public/assests/img1.svg");
+  background-repeat: no-repeat;
+  object-fit: fill;
+}
+
+.loginRight {
+  /* background-color: aqua; */
+  width: 100%;
+  display: flex;
+  margin-left: 0px;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  /* background-color: aqua;  */
+}
+
+.orContainer {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.loginLogo {
+  font-size: 50px;
+  font-weight: 800;
+  color: rgb(0, 83, 42);
+}
+
+.loginBox {
+  height: 550px;
+  margin-right: 100px;
+  margin-top: 30px;
+  padding-top: 0%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* background-color: aqua; */
+}
+
+@media screen and (max-width: 900px) {
+  .loginBox {
+    margin: auto;
+    margin-top: 20px;
+  }
+  .loginLeft {
+    height: 30vh;
+  }
+}
+@media screen and (max-width: 330px) {
+  .loginBox {
+    margin: 0px;
+    margin-top: 20px;
+    padding: 0%;
+  }
+}
+
+/* .loginBox span{
+    text-align: center;
+    margin-top: 10px;
+} */
+
+.loginBox label {
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.loginInput {
+  width: 100%;
+  height: 45px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  font-size: 18px;
+  padding-left: 20px;
+}
+
+.loginInput:focus {
+  outline: none;
+}
+
+.loginButton {
+  margin-top: 5px;
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  font-size: 20px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.loginButton:hover {
+  background-color: blue;
+}
+.googleButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 50px;
+  border-radius: 4px;
+  border: 1px solid gray;
+  font-size: 20px;
+  background-color: #fff;
+  color: black;
+  cursor: pointer;
+  margin-top: 0%;
+}
+
+.googleButton img {
+  margin-right: 20px;
+}
+
+.loginForgot {
+  text-align: center;
+  color: blue;
+}
+
+.loginRegisterButton {
+  width: 80%;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-size: 15px;
+  padding: 0 20px;
+  background-color: rgb(39, 83, 0);
+  color: white;
+  cursor: pointer;
+}
+
+.formtop {
+  font-size: 25px;
+  margin-bottom: 0%;
+}
+
+@media screen and (max-width: 330px) {
+  .loginButton {
+    width: 100%;
+    height: 50px;
+  }
+  .googleButton {
+    width: 100%;
+    height: 50px;
+  }
+}
+
+.Forgot {
+  display: flex;
+  justify-content: right;
+  text-align: right;
+  margin-bottom: 0%;
+}

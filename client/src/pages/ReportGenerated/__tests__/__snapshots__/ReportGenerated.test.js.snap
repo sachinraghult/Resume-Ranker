@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="reportContainer"
+>
+  <div>
+    <div
+      className="skin-blue-black"
+    >
+      <div
+        className="wrapper"
+      >
+        <header
+          className="main-header col-lg-12"
+        >
+          <span
+            className="logo-mid first border"
+            style={
+              Object {
+                "backgroundColor": "white",
+                "paddingLeft": "2px",
+              }
+            }
+          />
+          <div
+            className="fa fa-bars"
+            id="menu_bar"
+            onClick={[Function]}
+          />
+          <div
+            className="user-profile"
+            onClick={[Function]}
+          >
+            <span>
+              user
+            </span>
+            <div
+              className="mini-user fa fa-user-circle"
+            />
+          </div>
+        </header>
+        <div
+          className="leftMenu openMenu"
+        >
+          <ul
+            className="leftMenuList"
+          />
+        </div>
+        <div
+          className="content-wrapper content-wrapper-mid"
+        />
+        <div
+          className="profile-hover"
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        >
+          <div
+            className="user-profile-icon fa fa-user-circle"
+          />
+          <div
+            className="user-profile our-profile"
+          >
+            <span>
+              user
+            </span>
+            <h1
+              onClick={[Function]}
+            >
+              LogOut
+            </h1>
+          </div>
+        </div>
+        <div
+          className="popup-overlay"
+        />
+        <div
+          className="popup-overlay-bell"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "marginLeft": "50px",
+          "marginRight": "50px",
+        }
+      }
+    />
+  </div>
+  <div
+    className="reportSubContainer"
+  >
+    <h3>
+      Report Generation Dashboard
+    </h3>
+    <div
+      className="reportFilterContainer"
+    >
+      <div
+        className="container mt-5"
+      >
+        <div
+          className="row d-flex justify-content-center"
+        >
+          <div
+            className="col-md-10"
+          >
+             
+            <div
+              className="card p-3  py-4"
+            >
+              <h5>
+                Report Generation with filter
+              </h5>
+              <div
+                className="filterAlignContainer"
+              >
+                <div
+                  className="col-md-3"
+                >
+                  <div
+                    className="dropdown"
+                  >
+                    <button
+                      aria-expanded="false"
+                      className="btn btn-secondary dropdown-toggle"
+                      data-toggle="dropdown"
+                      id="dropdownMenuButton"
+                      type="button"
+                    >
+                      Select filter to be applied
+                    </button>
+                    <ul
+                      aria-labelledby="dropdownMenuButton"
+                      className="dropdown-menu"
+                    >
+                      <li
+                        onClick={[Function]}
+                      >
+                        <a
+                          className="dropdown-item"
+                          href="#"
+                        >
+                          None
+                        </a>
+                      </li>
+                      <li
+                        onClick={[Function]}
+                      >
+                        <a
+                          className="dropdown-item"
+                          href="#"
+                        >
+                          Job 
+                          <b>
+                            Specific
+                          </b>
+                           posts reports
+                        </a>
+                      </li>
+                      <li
+                        onClick={[Function]}
+                      >
+                        <a
+                          className="dropdown-item"
+                          href="#"
+                        >
+                          Filter job posts report based on 
+                          <b>
+                            Title
+                          </b>
+                        </a>
+                      </li>
+                      <li
+                        onClick={[Function]}
+                      >
+                        <a
+                          className="dropdown-item"
+                          href="#"
+                        >
+                          <b>
+                            Active
+                          </b>
+                           job posts report
+                        </a>
+                      </li>
+                      <li
+                        onClick={[Function]}
+                      >
+                        <a
+                          className="dropdown-item"
+                          href="#"
+                        >
+                          Job posts report between a 
+                          <b>
+                            Time
+                          </b>
+                           frame
+                        </a>
+                      </li>
+                      <li
+                        onClick={[Function]}
+                      >
+                        <a
+                          className="dropdown-item"
+                          href="#"
+                        >
+                          Filter job posts report based on 
+                          <b>
+                            Skill
+                          </b>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div
+                  className="filterButtonContainer1"
+                >
+                  <button
+                    className="productAddButton2"
+                    disabled={false}
+                    onClick={[Function]}
+                  >
+                    Apply Filter
+                  </button>
+                </div>
+                <div
+                  className="filterButtonContainer2"
+                >
+                  <button
+                    className="productAddButton2"
+                    disabled={false}
+                    onClick={[Function]}
+                  >
+                    Download Report
+                  </button>
+                </div>
+              </div>
+              <div
+                className="advancedReportFilter"
+              >
+                <div
+                  className="advance1"
+                />
+                <div
+                  style={
+                    Object {
+                      "display": "flex",
+                    }
+                  }
+                >
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "marginLeft": "-50px",
+        }
+      }
+    />
+  </div>
+</div>
+`;

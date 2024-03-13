@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="jobAppliedContainer"
+>
+  <div
+    className="product-details"
+  >
+    <h1>
+       
+    </h1>
+    <br />
+    <span
+      className="postTime"
+    >
+      <i>
+        applied
+         
+        0 secs ago
+      </i>
+    </span>
+    <p
+      className="information"
+    />
+    <div
+      className="control"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <button
+          className="btn"
+        >
+          <span
+            className="buy"
+          >
+            View Application
+          </span>
+        </button>
+      </a>
+    </div>
+  </div>
+  <div
+    className="product-image"
+  >
+    <img
+      alt=""
+      src="/Hiring/five.jpg"
+    />
+    <div
+      className="info"
+    >
+      <h2>
+         Description
+      </h2>
+      <br />
+      <b
+        style={
+          Object {
+            "color": "red",
+            "marginLeft": "30px",
+          }
+        }
+      />
+      <ul>
+        <li>
+          <strong>
+            Job Tags : 
+          </strong>
+        </li>
+        <br />
+        <li>
+          <strong>
+            Deadline: 
+          </strong>
+        </li>
+        <li>
+          <strong>
+                    
+          </strong>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

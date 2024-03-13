@@ -1,0 +1,14 @@
+.rankingContainer {
+  /* background-image: url("https://examsbook.co.in/img/post/large/oSzIrFQuImage-76.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
+  background-position: center; */
+  min-height: 100vh;
+  background-color: #c3c4ba;
+}
+
+.rankingSubContainer {
+  margin-top: 50px;
+  margin-left: 250px;
+}

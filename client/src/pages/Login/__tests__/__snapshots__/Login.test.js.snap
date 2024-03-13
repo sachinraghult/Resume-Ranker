@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="loginWrapper"
+>
+  <div
+    className="loginLeft"
+  >
+    <h3
+      className="loginLogo"
+    >
+      Job Finder
+    </h3>
+    <span
+      className="loginDesc"
+    >
+      Enter your details...
+    </span>
+  </div>
+  <div
+    className="loginRight"
+  >
+    <form
+      className="loginBox"
+      onSubmit={[Function]}
+    >
+      <div
+        className="formtop"
+      >
+        <h2>
+          Login
+        </h2>
+      </div>
+      <div
+        id="signInDiv"
+      >
+        Sign up
+      </div>
+      <div
+        className="orContainer"
+      >
+        <div
+          className="line"
+        >
+          <span>
+            ---------------------- or Login with Email ----------------------
+          </span>
+        </div>
+      </div>
+      <input
+        className="loginInput"
+        onChange={[Function]}
+        placeholder="Email"
+        required={true}
+        type="email"
+        value=""
+      />
+      <input
+        className="loginInput"
+        onChange={[Function]}
+        placeholder="Password"
+        required={true}
+        type="password"
+        value=""
+      />
+      <button
+        className="loginButton"
+        data-testid="handleSubmit"
+        type="submit"
+      >
+        Login
+      </button>
+      <span
+        className="caa"
+      >
+        Not Registered? 
+        <a
+          href="/choose"
+          onClick={[Function]}
+        >
+          Create an Account
+        </a>
+         
+      </span>
+    </form>
+  </div>
+</div>
+`;

@@ -1,0 +1,49 @@
+Adarsh Srivastava
+Jaunpur,Uttar Pradesh
++91-6387887157
+as2014@srmist.edu.in
+
+EDUCATION
+SRM Institute of Science and Technology
+B.Tech CSE with specialization in AIML - CGPA - 9.84 June 2019 – May 2023
+Kattankulathur,India
+Maa Durga Ji Sr. Sec. Vidyalaya
+CBSE XII Percentage - 94.6% April 2016 – May 2018
+Jaunpur, India
+
+PROJECTS
+Face Mask Detection May 2021
+•OpenCv, Tensorflow, Pandas, Deep Learning
+•An application of convolutional neural network to classify whether a person is wearing a face mask or not using VGG19 CNN architecture.
+Handwritten Digit Recognition Aug 2021
+•Deep Learning, Streamlit, OpenCV
+•This project is a demonstration of the capability of deep learning techniques in object recognition in image data.
+MedBot April 2022
+•NLP, Flask, Front-End Dev
+•MedBot is a chatbot and main objective of this project is to provide 24X7 access to patients to the medical world.
+
+INTERNSHIP
+Wobot.Ai 
+Intern - Engineering
+Dec 2021 – March 2022
+Remote Work
+The Internship is all about the Image Annotation in different areas and most of the responsibilty and challenges comes through the time constraints and work load. I lead a team of 7 people and successfully completed the task within given time.
+
+ARTICLE PUBLISHED
+Comprehensive Guide to Gradient Descent
+Medium March 2021
+This article deals with the most widely used optimization algorithm in Machine Learning and the mathematics and intuition behind this algorithm.
+
+TECHNICAL SKILLS
+Languages: Python, C, C++, JavaScript, SQL
+Developer Tools: VS Code, Atom, Eclipse, Anaconda Navigator
+Technologies/Frameworks: ReactJS, Streamlit, Tensorflow, Flask
+Operating System Linux, Windows
+Version Control: GitHub
+
+ACHIEVEMENTS
+SRMJEEE Merit Scholarship
+•Secured 957 Rank in SRMJEEE-2019
+•Successfully Renewed Scholarship for 2nd Year
+•Successfully Renewed Scholarship for 3rd Year
+•Got Performance based Scholarship for 3rd Year
